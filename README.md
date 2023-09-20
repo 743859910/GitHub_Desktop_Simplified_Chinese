@@ -27,11 +27,11 @@ GitHub Desktop 版本：3.2.1 - 3.3.1
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/lkyero/GitHubDesktop_zh@ced0d74/img/1.PNG)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/1.PNG)
 
-![](https://cdn.jsdelivr.net/gh/lkyero/GitHubDesktop_zh@ced0d74/img/2.PNG)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/2.PNG)
 
-![](https://cdn.jsdelivr.net/gh/lkyero/GitHubDesktop_zh@ced0d74/img/3.PNG)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/3.PNG)
 
 
 
@@ -46,7 +46,7 @@ GitHub Desktop 版本：3.2.1 - 3.3.1
 
 完成后界面
 ---
-![](https://upload-images.jianshu.io/upload_images/8833471-059ebc4cecfa31c6.png)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/8833471-059ebc4cecfa31c6.png)
 
 
 
@@ -63,7 +63,7 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 
 完成后界面
 ---
-![](https://upload-images.jianshu.io/upload_images/8833471-e1e555687f41789f.png)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/8833471-e1e555687f41789f.png)
 
 
 
