@@ -27,11 +27,11 @@ GitHub Desktop 版本：3.2.1 - 3.3.1
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/1.PNG)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/1.png)
 
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/2.PNG)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/2.png)
 
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/3.PNG)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/3.png)
 
 
 
