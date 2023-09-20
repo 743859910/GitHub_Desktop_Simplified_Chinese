@@ -1,14 +1,17 @@
 # GitHub_Desktop_Simplified_Chinese
 
+<<<<<<< Updated upstream
 
 
+=======
+>>>>>>> Stashed changes
 ---
 GitHub_桌面_简体_中文
 ---
 
 GitHub Desktop 官网：https://desktop.github.com
 
-GitHub Desktop 版本：3.0.6 - 3.3.1
+GitHub Desktop 版本：3.2.1 - 3.3.1
 
 注意：请一定保持Github Desktop版本与本汉化工具版本对应，否则汉化后Github Desktop可能会打不开。
 
@@ -43,8 +46,13 @@ GitHub Desktop 版本：3.0.6 - 3.3.1
 重新打开GitHub Desktop
 
 完成后界面
+<<<<<<< Updated upstream
 ---
 ![](https://upload-images.jianshu.io/upload_images/8833471-059ebc4cecfa31c6.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+=======
+---------
+![](https://upload-images.jianshu.io/upload_images/8833471-059ebc4cecfa31c6.png)
+>>>>>>> Stashed changes
 
 
 
@@ -60,10 +68,18 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 重新打开GitHub Desktop
 
 完成后界面
+<<<<<<< Updated upstream
 ---
 ![](https://upload-images.jianshu.io/upload_images/8833471-e1e555687f41789f.png?imageMogr2/auto-orient/strip|imageView2/2/w/1025/format/webp)
+=======
+---------
+![](https://upload-images.jianshu.io/upload_images/8833471-e1e555687f41789f.png)
+
+
+>>>>>>> Stashed changes
 
 ---
 网名：我只是你的过客
 个性签名：每个人都是每个人的过客
 国籍：中华人民共和国 / 现居：中国湖北省武汉市
+---
