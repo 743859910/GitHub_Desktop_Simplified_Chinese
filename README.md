@@ -8,6 +8,8 @@ GitHub_桌面_简体_中文
 
 GitHub Desktop 官网：https://desktop.github.com
 
+GitHub Desktop 版本：3.0.6 - 3.3.1
+
 注意：请一定保持Github Desktop版本与本汉化工具版本对应，否则汉化后Github Desktop可能会打不开。
 
 
@@ -16,7 +18,7 @@ GitHub Desktop 官网：https://desktop.github.com
 ### Windows 简体中文汉化
 将项目根目录的main.js和renderer.js替换至：
 
-     C:\Users\【用户名】\AppData\Local\GitHubDesktop\【最新版本文件夹 例：app-3.3.1】\resources\app
+     C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.1】\resources\app
      【请记得做好备份:) 】
      
 重新打开GitHub Desktop
@@ -29,17 +31,13 @@ GitHub Desktop 官网：https://desktop.github.com
 
 ![](https://cdn.jsdelivr.net/gh/lkyero/GitHubDesktop_zh@ced0d74/img/3.PNG)
 
-![](https://upload-images.jianshu.io/upload_images/8833471-5b79738a38b98bee.png?imageMogr2/auto-orient/strip|imageView2/2/w/959/format/webp)
-
-![](https://upload-images.jianshu.io/upload_images/8833471-f215d172dbe85d58.png?imageMogr2/auto-orient/strip|imageView2/2/w/986/format/webp)
-
 
 
 ---
 ### Mac 简体中文汉化
-将本仓库中Mac文件夹下的main.js和renderer.js拷贝替换本地GithubDesktop的资源目录
+将本仓库中Mac文件夹下的main.js和renderer.js拷贝替换本地GitHub Desktop的资源目录
 
-本地GithubDesktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
+本地GitHub Desktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
      【请记得做好备份:) 】
      
 重新打开GitHub Desktop
@@ -52,9 +50,9 @@ GitHub Desktop 官网：https://desktop.github.com
 
 ---
 ### Linux 简体中文汉化
-Linux版GithubDesktop仓库：https://github.com/shiftkey/desktop
+Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 
-将本仓库中Linux文件夹下的main.js和renderer.js复制替换本地GithubDesktop的资源目录
+将本仓库中Linux文件夹下的main.js和renderer.js复制替换本地GitHub Desktop的资源目录
 
 本地GithubDesktop资源目录一般为：/usr/lib/github-desktop/resources/app
      【请记得做好备份:) 】
