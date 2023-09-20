@@ -1,7 +1,5 @@
 # GitHub_Desktop_Simplified_Chinese
 
-
-
 ---
 
 GitHub_桌面_简体_中文 汉化补丁包
@@ -13,8 +11,6 @@ GitHub Desktop 官网：https://desktop.github.com
 GitHub Desktop 版本：3.2.1 - 3.3.1
 
 注意：请一定保持Github Desktop版本与本汉化补丁包版本对应，否则汉化后Github Desktop可能会打不开。
-
-
 
 ---
 ### Windows 简体中文汉化
@@ -33,8 +29,6 @@ GitHub Desktop 版本：3.2.1 - 3.3.1
 
 ![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/3.png)
 
-
-
 ---
 ### Mac 简体中文汉化
 将本仓库中Mac文件夹下的main.js和renderer.js拷贝替换本地GitHub Desktop的资源目录
@@ -47,8 +41,6 @@ GitHub Desktop 版本：3.2.1 - 3.3.1
 完成后界面
 ---
 ![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/8833471-059ebc4cecfa31c6.webp)
-
-
 
 ---
 ### Linux 简体中文汉化
@@ -69,11 +61,15 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 
 ---
 
+<center>
+
 网名：我只是你的过客
 
 个性签名：每个人都是每个人的过客
 
 国籍：中华人民共和国 / 现居：中国湖北省武汉市
+
+</center>
 
 ---
 
