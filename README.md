@@ -2,7 +2,6 @@
 
 
 
-Github Desktop Simplified Chinese
 ==
 
 GitHub桌面版 简体中文汉化
@@ -100,9 +99,9 @@ Linux版GithubDesktop仓库：https://github.com/shiftkey/desktop
 
 本地GithubDesktop资源目录一般为：/usr/lib/github-desktop/resources/app
 
-视频教程：[https://www.bilibili.com/video/BV17v4y1z79h](https://www.bilibili.com/video/BV17v4y1z79h)
-
 ![](https://upload-images.jianshu.io/upload_images/8833471-e1e555687f41789f.png?imageMogr2/auto-orient/strip|imageView2/2/w/1025/format/webp)
 
 ---
-地址：山东青岛
+网名：我只是你的过客
+个性签名：每个人都是每个人的过客
+国籍：中华人民共和国 / 现居：中国湖北省武汉市
