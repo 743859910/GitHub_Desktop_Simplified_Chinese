@@ -19,7 +19,7 @@ GitHub Desktop 版本：3.0.6 - 3.3.1
 将项目根目录的main.js和renderer.js替换至：
 
      C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.1】\resources\app
-     【请记得做好备份:) 】
+     【请一定记得提前做好备份】
      
 重新打开GitHub Desktop
 
@@ -38,7 +38,7 @@ GitHub Desktop 版本：3.0.6 - 3.3.1
 将本仓库中Mac文件夹下的main.js和renderer.js拷贝替换本地GitHub Desktop的资源目录
 
 本地GitHub Desktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
-     【请记得做好备份:) 】
+     【请一定记得提前做好备份】
      
 重新打开GitHub Desktop
 
@@ -55,7 +55,7 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 将本仓库中Linux文件夹下的main.js和renderer.js复制替换本地GitHub Desktop的资源目录
 
 本地GithubDesktop资源目录一般为：/usr/lib/github-desktop/resources/app
-     【请记得做好备份:) 】
+     【请一定记得提前做好备份】
      
 重新打开GitHub Desktop
 
