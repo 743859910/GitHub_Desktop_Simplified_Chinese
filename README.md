@@ -4,7 +4,7 @@
 
 ---
 
-GitHub_桌面_简体_中文
+GitHub_桌面_简体_中文汉化补丁包
 
 ---
 
@@ -12,7 +12,7 @@ GitHub Desktop 官网：https://desktop.github.com
 
 GitHub Desktop 版本：3.2.1 - 3.3.1
 
-注意：请一定保持Github Desktop版本与本汉化包版本对应，否则汉化后Github Desktop可能会打不开。
+注意：请一定保持Github Desktop版本与本汉化补丁包版本对应，否则汉化后Github Desktop可能会打不开。
 
 
 
