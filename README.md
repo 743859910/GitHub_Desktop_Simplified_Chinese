@@ -29,11 +29,11 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.1
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/ETS2/1.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/1.webp)
 
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/ETS2/2.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/2.webp)
 
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/ETS2/3.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/3.webp)
 
 ---
 ### Mac 简体中文汉化
@@ -46,7 +46,7 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.1
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/ETS2/8833471-059ebc4cecfa31c6.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/8833471-059ebc4cecfa31c6.webp)
 
 ---
 ### Linux 简体中文汉化
@@ -61,7 +61,7 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/ETS2/8833471-e1e555687f41789f.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/8833471-e1e555687f41789f.webp)
 
 ---
 
