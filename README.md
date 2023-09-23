@@ -3,23 +3,23 @@
 ---
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/gh-readme-header.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/gh-readme-header.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/template.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/template.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/1424469275.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1424469275.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/fbCScVCQ.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/fbCScVCQ.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/programmer.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/programmer.webp">
 </h1>
 
 ---
@@ -38,7 +38,8 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.1
 
 密码：1234
 
-注意：请一定保持Github Desktop版本与本汉化补丁包版本对应，否则汉化后Github Desktop可能会打不开。
+注意：
+请一定保持Github Desktop版本与本汉化补丁包版本对应，否则汉化后Github Desktop可能会打不开。
 
 ---
 
@@ -52,11 +53,11 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.1
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/1.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1.webp)
 
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/2.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/2.webp)
 
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/3.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/3.webp)
 
 ---
 
@@ -70,7 +71,7 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.1
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/8833471-059ebc4cecfa31c6.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/8833471-059ebc4cecfa31c6.webp)
 
 ---
 
@@ -86,7 +87,7 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/8833471-e1e555687f41789f.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/8833471-e1e555687f41789f.webp)
 
 ---
 
