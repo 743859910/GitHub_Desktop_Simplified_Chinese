@@ -83,7 +83,7 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/8833471-e1e555687f41789f.webp)
+https://cdn.jsdelivr.net/gh/wlc743859910/PicGoGitHubimg/img/8833471-e1e555687f41789f.webp
 
 ---
 
