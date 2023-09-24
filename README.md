@@ -3,23 +3,23 @@
 ---
 
 <h1 align="center">
-  <img src="https://fastly.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/gh-readme-header.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/gh-readme-header.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://fastly.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/template.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/template.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://fastly.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1424469275.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1424469275.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://fastly.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/fbCScVCQ.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/fbCScVCQ.webp">
 </h1>
 
 <h1 align="center">
-  <img src="https://fastly.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/programmer.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/programmer.webp">
 </h1>
 
 ---
@@ -53,7 +53,7 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.1
 
 完成后界面
 ---
-![](https://fastly.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1.webp)
 
 ![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/2.webp)
 
