@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/gh-readme-header.webp">
+  <img src="https://fastly.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/gh-readme-header.webp">
 </h1>
 
 <h1 align="center">
@@ -53,7 +53,7 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.1
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1.webp)
+![](https://fastly.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1.webp)
 
 ![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/2.webp)
 
