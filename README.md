@@ -35,11 +35,10 @@ GitHub Desktop 版本：3.2.1 - 3.3.3
 GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.3
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
-
 密码：1234
 
 注意：
-请一定保持Github Desktop版本与本汉化补丁包版本对应，否则汉化后Github Desktop可能会打不开。
+请一定要保持Github Desktop版本与本汉化补丁包版本对应，否则汉化后Github Desktop可能会报错或打不开。
 
 ---
 
@@ -49,7 +48,7 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.3
      C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.3】\resources\app
      【请一定记得提前做好备份】
      
-重新打开GitHub Desktop
+替换完成后 重新打开GitHub Desktop
 
 完成后界面
 ---
@@ -67,7 +66,7 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.3
 本地GitHub Desktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
      【请一定记得提前做好备份】
      
-重新打开GitHub Desktop
+替换完成后 重新打开GitHub Desktop
 
 完成后界面
 ---
@@ -83,7 +82,7 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 本地GitHub Desktop资源目录一般为：/usr/lib/github-desktop/resources/app
      【请一定记得提前做好备份】
      
-重新打开GitHub Desktop
+替换完成后 重新打开GitHub Desktop
 
 完成后界面
 ---
