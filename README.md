@@ -32,7 +32,7 @@ GitHub Desktop 官网：https://desktop.github.com
 
 GitHub Desktop 版本：3.2.1 - 3.3.4
 
-GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.3
+GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.4
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
