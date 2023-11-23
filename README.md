@@ -93,6 +93,10 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 
 ---
 
+![Visitor Count](https://profile-counter.glitch.me/{GitHub_Desktop_Simplified_Chinese}/count.svg)
+
+---
+
 <table>
     <tr>
         <td >
