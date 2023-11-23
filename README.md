@@ -2,28 +2,6 @@
 
 ---
 
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/gh-readme-header.webp">
-</h1>
-
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/template.webp">
-</h1>
-
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1424469275.webp">
-</h1>
-
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/fbCScVCQ.webp">
-</h1>
-
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/programmer.webp">
-</h1>
-
----
-
 GitHub_桌面_简体_中文 汉化补丁包
 
 ---
@@ -90,6 +68,28 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 完成后界面
 ---
 ![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/8833471-e1e555687f41789f.webp)
+
+---
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/gh-readme-header.webp">
+</h1>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/template.webp">
+</h1>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1424469275.webp">
+</h1>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/fbCScVCQ.webp">
+</h1>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/programmer.webp">
+</h1>
 
 ---
 
