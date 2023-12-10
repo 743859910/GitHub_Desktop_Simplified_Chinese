@@ -9,14 +9,12 @@ GitHub_桌面_简体_中文 汉化补丁包
 GitHub Desktop 官网：https://desktop.github.com
 
 GitHub Desktop 最新版本下载：
-3.3.5
-https://desktop.githubusercontent.com/github-desktop/releases/3.3.5-76560059/GitHubDesktopSetup-x64.exe
 
 3.3.6 https://desktop.githubusercontent.com/github-desktop/releases/3.3.6-4616f73d/GitHubDesktopSetup-x64.exe
 
 GitHub Desktop 版本：3.2.1 - 3.3.6
 
-GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.5
+GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.6
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -30,7 +28,7 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.5
 ### Windows 简体中文汉化
 将项目根目录的main.js和renderer.js替换至：
 
-     C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.5】\resources\app
+     C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.6】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
