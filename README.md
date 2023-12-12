@@ -2,7 +2,7 @@
 
 ---
 
-GitHub_桌面_简体_中文 汉化补丁包
+GitHub_桌面_简体_中文 汉化补丁包 支持Mac，Linux，Windows。
 
 ---
 
