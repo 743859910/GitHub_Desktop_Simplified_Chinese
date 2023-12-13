@@ -8,7 +8,7 @@ GitHub_桌面_简体_中文 汉化补丁包 支持Mac，Linux，Windows。
 
 GitHub Desktop 官网：https://desktop.github.com
 
-GitHub Desktop 最新版本下载：[3.3.6](https://desktop.githubusercontent.com/github-desktop/releases/3.3.6-4616f73d/GitHubDesktopSetup-x64.exe)
+GitHub Desktop 最新版本下载：[3.3.6](https://central.github.com/deployments/desktop/desktop/latest/win32)
 
 GitHub Desktop 版本：3.2.1 - 3.3.6
 
