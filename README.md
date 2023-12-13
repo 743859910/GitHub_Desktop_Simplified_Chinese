@@ -23,24 +23,6 @@ GitHub Desktop 汉化补丁包 版本：3.2.1 - 3.3.6
 
 ---
 
-### Windows 简体中文汉化
-将项目根目录的main.js和renderer.js替换至：
-
-     C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.6】\resources\app
-     【请一定记得提前做好备份】
-     
-替换完成后 重新打开GitHub Desktop
-
-完成后界面
----
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1.webp)
-
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/2.webp)
-
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/3.webp)
-
----
-
 ### Mac 简体中文汉化
 将本仓库中Mac文件夹下的main.js和renderer.js拷贝替换本地GitHub Desktop的资源目录
 
@@ -68,6 +50,24 @@ Linux版GitHub Desktop仓库：https://github.com/shiftkey/desktop
 完成后界面
 ---
 ![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/8833471-e1e555687f41789f.webp)
+
+---
+
+### Windows 简体中文汉化
+将项目根目录的main.js和renderer.js替换至：
+
+     C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.6】\resources\app
+     【请一定记得提前做好备份】
+     
+替换完成后 重新打开GitHub Desktop
+
+完成后界面
+---
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1.webp)
+
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/2.webp)
+
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/3.webp)
 
 ---
 
