@@ -119,7 +119,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.6 |
         <td >
 MIT License
 
-Copyright © 2008-2023 Powered by wlc743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008-2024 Powered by wlc743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
         </center>
         </td>
     </tr>
