@@ -23,7 +23,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.6 |
 
 ---
 
-### Mac 简体中文汉化
+# Mac 简体中文汉化
 将本仓库中Mac文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
 本地GitHub Desktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
@@ -37,7 +37,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.6 |
 
 ---
 
-### Linux 简体中文汉化
+# Linux 简体中文汉化
 将本仓库中Linux文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
 本地GitHub Desktop资源目录一般为：/usr/lib/github-desktop/resources/app
@@ -51,7 +51,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.6 |
 
 ---
 
-### Windows 简体中文汉化
+# Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
 本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.6】\resources\app
@@ -69,25 +69,25 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.6 |
 
 ---
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/gh-readme-header.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/template.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1424469275.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/fbCScVCQ.webp">
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/programmer.webp">
-</h1>
+</p>
 
 ---
 
