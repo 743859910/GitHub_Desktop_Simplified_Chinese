@@ -29,7 +29,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 |
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/8833471-059ebc4cecfa31c6.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/Mac.webp)
 
 ---
 
@@ -43,7 +43,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 |
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/8833471-e1e555687f41789f.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/Linux.webp)
 
 ---
 
@@ -57,11 +57,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 |
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1.webp)
-
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/2.webp)
-
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/3.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/Windows.webp)
 
 ---
 
