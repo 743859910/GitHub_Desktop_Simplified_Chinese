@@ -28,7 +28,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 |
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/Mac.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/Mac.webp)
 
 ---
 
@@ -42,7 +42,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 |
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/Linux.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/Linux.webp)
 
 ---
 
@@ -56,28 +56,28 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 |
 
 完成后界面
 ---
-![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/Windows.webp)
+![](https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/Windows.webp)
 
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/1.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/2.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/3.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/4.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/5.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/5.webp">
 </p>
 
 ---
