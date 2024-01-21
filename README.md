@@ -4,14 +4,13 @@
 
 GitHub Desktop 官网：https://desktop.github.com
 
-GitHub Desktop 下载： | [Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Linux](https://github.com/shiftkey/desktop) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
+GitHub Desktop 下载： | [Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Linux](https://github.com/shiftkey/desktop/releases/latest) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
 GitHub Desktop 版本：| 3.2.1 - 3.3.8 |
 
 GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 |
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
-
 密码：1234
 
 注意：
@@ -62,23 +61,23 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 |
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/gh-readme-header.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/template.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/1424469275.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/fbCScVCQ.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/programmer.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Desktop_Simplified_Chinese/img/5.webp">
 </p>
 
 ---
@@ -94,6 +93,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 |
 <table>
     <tr>
         <td >
+		<center>
 昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
@@ -109,6 +109,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 |
 <table>
     <tr>
         <td >
+		<center>
 MIT License
 
 Copyright © 2008-2024 Powered by wlc743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
