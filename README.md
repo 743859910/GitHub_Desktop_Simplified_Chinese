@@ -8,7 +8,7 @@ GitHub Desktop 下载： | [Mac](https://central.github.com/deployments/desktop/
 
 GitHub Desktop 版本：| 3.2.1 - 3.3.9 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.8 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.9 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 密码：1234
