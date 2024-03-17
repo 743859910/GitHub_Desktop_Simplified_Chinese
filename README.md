@@ -28,7 +28,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.11 |
 
 完成后界面
 ---
-![](https://raw.github.ink/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Mac.webp)
+![](https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Mac.webp)
 
 ---
 
@@ -42,7 +42,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.11 |
 
 完成后界面
 ---
-![](https://raw.github.ink/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Linux.webp)
+![](https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Linux.webp)
 
 ---
 
@@ -56,28 +56,28 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.11 |
 
 完成后界面
 ---
-![](https://raw.github.ink/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Windows.webp)
+![](https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Windows.webp)
 
 ---
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/5.webp">
 </p>
 
 ---
@@ -86,7 +86,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.11 |
 
 ---
 
-![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/SZRMB.webp)
+![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.gitmirror.com/wlc743859910/wlc743859910/master/img/SZRMB.webp)
 
 ---
 
