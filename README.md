@@ -49,7 +49,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.12 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.6】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.12】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
