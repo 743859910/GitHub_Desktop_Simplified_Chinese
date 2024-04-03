@@ -4,7 +4,7 @@
 
 GitHub Desktop 官网：https://desktop.github.com
 
-GitHub Desktop 下载： | [Mac](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Linux](https://github.com/shiftkey/desktop/releases/latest) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
+GitHub Desktop 下载： | [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
 GitHub Desktop 版本：| 3.2.1 - 3.3.12 | 
 
@@ -15,20 +15,6 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.12 |
 
 注意：
 请一定要保持Github Desktop版本与本汉化补丁包版本对应，否则汉化后Github Desktop可能会报错或打不开。
-
----
-
-# Mac 简体中文汉化
-将本仓库中Mac文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
-
-本地GitHub Desktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
-     【请一定记得提前做好备份】
-     
-替换完成后 重新打开GitHub Desktop
-
-完成后界面
----
-![](https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Mac.webp)
 
 ---
 
@@ -43,6 +29,20 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.12 |
 完成后界面
 ---
 ![](https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Linux.webp)
+
+---
+
+# MacOS 简体中文汉化
+将本仓库中Mac文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
+
+本地GitHub Desktop资源目录一般为：/Applications/GitHub Desktop.app/Contents/Resources/app
+     【请一定记得提前做好备份】
+     
+替换完成后 重新打开GitHub Desktop
+
+完成后界面
+---
+![](https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Mac.webp)
 
 ---
 
