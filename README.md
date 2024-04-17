@@ -12,7 +12,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.14 |
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
-如链接打不开，可将lanzouy中的y用26个英文字母中的任一一个替换即可。
+如链接打不开，可将lanzouy中的y用26个英文字母中的任意一个替换即可。
 
 密码：1234
 
