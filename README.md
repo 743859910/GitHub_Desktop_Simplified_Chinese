@@ -6,11 +6,14 @@ GitHub Desktop 官网：https://desktop.github.com
 
 GitHub Desktop 下载： | [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.3.13 | 
+GitHub Desktop 版本：| 3.2.1 - 3.3.14 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.13 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.14 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
+
+如链接打不开，可将lanzouy中的y用26个英文字母中的任一一个替换即可。
+
 密码：1234
 
 注意：
@@ -49,7 +52,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.13 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.13】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.3.14】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
