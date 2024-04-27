@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"><a href="https://www.wlc743859910.cn"><img src="https://desktop.github.com/images/desktop-icon.svg" alt="logo" width="300" /></a></p>
+<p align="center"><a href="https://www.743859910.cn"><img src="https://desktop.github.com/images/desktop-icon.svg" alt="logo" width="300" /></a></p>
 
 ---
 
@@ -35,7 +35,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.14 |
 
 完成后界面
 ---
-![](https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Linux.webp)
+![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Linux.webp)
 
 ---
 
@@ -49,7 +49,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.14 |
 
 完成后界面
 ---
-![](https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Mac.webp)
+![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Mac.webp)
 
 ---
 
@@ -63,28 +63,28 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.14 |
 
 完成后界面
 ---
-![](https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/Windows.webp)
+![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Windows.webp)
 
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/wlc743859910/GitHub_Desktop_Simplified_Chinese/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/5.webp">
 </p>
 
 ---
@@ -103,6 +103,6 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.3.14 |
 
 MIT License
 
-Copyright © 2008-2024 Powered by wlc743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
