@@ -97,6 +97,10 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.2 |
 
 ---
 
+# 如果您觉得本工具对您有帮助，不妨在右上角点亮一颗小星星，以示鼓励！
+
+---
+
 <p align="center">
   <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/1.webp">
 </p>
