@@ -27,11 +27,8 @@ GitHub Desktop 版本：| 3.2.1 - 3.4.2 |
 
 GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.2 | 
 
-蓝奏云：https://www.lanzouy.com/b00roqguj
+网盘下载：[点击下载](https://pan.quark.cn/s/e8a71c0ac481)
 
-如链接打不开，可将lanzouy中的y用26个英文字母中的任意一个替换即可。
-
-密码：1234
 
 注意：
 请一定要保持Github Desktop版本与本汉化补丁包版本对应，否则汉化后Github Desktop可能会报错或打不开。
