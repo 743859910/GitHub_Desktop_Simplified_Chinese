@@ -25,9 +25,9 @@ GitHub Desktop 发行说明：https://desktop.github.com/release-notes
 
 GitHub Desktop 下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.2 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.3 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.2 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.3 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -42,18 +42,30 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.2 |
 
 # 这里温馨提醒一下：
 
-### 从官网下载GitHub Desktop 3.4.2安装包时，使用迅雷可以跑满速。
+### 从官网下载GitHub Desktop 3.4.3安装包时，使用迅雷可以跑满速。
 
 ---
 
-# GitHub Desktop for 2024年6月25日 3.4.2 发布说明
-为托管在GitHub.com之外的存储库使用Git凭据管理器的选项 - [#18700](https://github.com/desktop/desktop/issues/18700)
+# GitHub Desktop for 2024年7月31日 3.4.3 发布说明
+补充 将Zed添加为Linux的外部编辑器选项 - [#18962](https://github.com/desktop/desktop/issues/18962).谢谢@adil192！
 
-允许自定义空格中的制表符宽度 - [#15561](https://github.com/desktop/desktop/issues/15561)
+固定的 允许推送到注册表 - [#19009](https://github.com/desktop/desktop/issues/19009)
 
-包含空格的远程URL现在将完整显示在远程设置屏幕中 - [#18876](https://github.com/desktop/desktop/issues/18876)
+补充 Shift+F10在macOS上打开上下文菜单
 
-新上传的图片在Pull Request评论和评论中呈现 - [#18830](https://github.com/desktop/desktop/issues/18830)
+固定的 在VoiceOver中单击复制按钮时，会发出通知。
+
+固定的 差异中的上下文菜单操作可通过键盘访问 - [#18946](https://github.com/desktop/desktop/issues/18946)
+
+固定的 滚动更改列表时，添加/删除合著者提示文本的位置正确 - [#18929](https://github.com/desktop/desktop/issues/18929)
+
+固定的 VoiceOver现在可以在diff上使用浏览器模式。 - [#18935](https://github.com/desktop/desktop/issues/18935)
+
+固定的 应用程序中几个文本和图标的对比度增加 - [#18922](https://github.com/desktop/desktop/issues/18922)
+
+固定的 将aria expanded和aria control属性添加到Stashed Changes按钮 - [#18924](https://github.com/desktop/desktop/issues/18924)
+
+固定的 驼峰标题文本颜色对比度大于4.5:1 - [#18916](https://github.com/desktop/desktop/issues/18916)
 
 ---
 
@@ -88,7 +100,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.2 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.2】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.3】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
