@@ -25,9 +25,9 @@ GitHub Desktop 发行说明：https://desktop.github.com/release-notes
 
 GitHub Desktop 下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.3 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.4 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.3 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.4 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -46,26 +46,38 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.3 |
 
 ---
 
-# GitHub Desktop for 2024年7月31日 3.4.3 发布说明
-补充 将Zed添加为Linux的外部编辑器选项 - [#18962](https://github.com/desktop/desktop/issues/18962).谢谢@adil192！
+# GitHub Desktop for 2024年9月5日 3.4.4 发布说明
+新的 添加对自定义编辑器和 shell 的支持 - [#18954](https://github.com/desktop/desktop/issues/18954)
 
-固定的 允许推送到注册表 - [#19009](https://github.com/desktop/desktop/issues/19009)
+额外 在 macOS 上添加光标支持 - [#17462](https://github.com/desktop/desktop/issues/17462)。感谢 @bjorntechCarl！
 
-补充 Shift+F10在macOS上打开上下文菜单
+额外 添加 JetBrains RustRover 支持 - [#18802](https://github.com/desktop/desktop/issues/18802)。感谢 @Radd-Sma！
 
-固定的 在VoiceOver中单击复制按钮时，会发出通知。
+固定的 “创建新存储库”对话框允许在存储库子文件夹中创建存储库 - [#19137](https://github.com/desktop/desktop/issues/19137)
 
-固定的 差异中的上下文菜单操作可通过键盘访问 - [#18946](https://github.com/desktop/desktop/issues/18946)
+固定的 停止在自动完成建议弹出窗口中不当宣布“对话框”角色 - [#19114](https://github.com/desktop/desktop/issues/19114)
 
-固定的 滚动更改列表时，添加/删除合著者提示文本的位置正确 - [#18929](https://github.com/desktop/desktop/issues/18929)
+固定的 “打开 Pull 请求”和“关于”对话框的标题通过 NVDA 公布 - [#19107](https://github.com/desktop/desktop/issues/19107)
 
-固定的 VoiceOver现在可以在diff上使用浏览器模式。 - [#18935](https://github.com/desktop/desktop/issues/18935)
+固定的 清除过滤器后，“打开拉取请求”对话框中的分支选择弹出窗口不会关闭 - [#19106](https://github.com/desktop/desktop/issues/19106)
 
-固定的 应用程序中几个文本和图标的对比度增加 - [#18922](https://github.com/desktop/desktop/issues/18922)
+固定的 差异文件警告中的图标对比度至少为 3:1 - [#19097](https://github.com/desktop/desktop/issues/19097)
 
-固定的 将aria expanded和aria control属性添加到Stashed Changes按钮 - [#18924](https://github.com/desktop/desktop/issues/18924)
+固定的 “推送本地更改”确认对话框用户使用“alertdialog”角色，以便屏幕阅读器宣布整个对话框内容 - [#19098](https://github.com/desktop/desktop/issues/19098)
 
-固定的 驼峰标题文本颜色对比度大于4.5:1 - [#18916](https://github.com/desktop/desktop/issues/18916)
+固定的 表情符号为屏幕阅读器提供描述 - [#19101](https://github.com/desktop/desktop/issues/19101)
+
+固定的 仅要求提供所选存储库的 SSH 凭据，并且仅在身份验证错误后删除它们 - [#19019](https://github.com/desktop/desktop/issues/19019)
+
+改进 当用户在差异中扩展上下文时，屏幕阅读器将会宣告 - [#19128](https://github.com/desktop/desktop/issues/19128)
+
+改进 挤压对话框提供可视化输入标签 - [#19100](https://github.com/desktop/desktop/issues/19100)
+
+改进 应用程序中的搜索输入以搜索图标的形式提供视觉标签 - [#19103](https://github.com/desktop/desktop/issues/19103)
+
+改进 在 Linux 上使用 CmdOrCtrl+Q 作为退出快捷键 - [#19093](https://github.com/desktop/desktop/issues/19093)。感谢 @shiftkey！
+
+改进 在 Linux 上添加对 Gnome Console、LXTerminal 和 Warp shell 的支持 - [#19092](https://github.com/desktop/desktop/issues/19092)。感谢 @shiftkey！
 
 ---
 
@@ -100,7 +112,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.3 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.3】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.4】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
