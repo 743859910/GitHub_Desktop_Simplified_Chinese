@@ -46,9 +46,10 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.5 |
 
 ---
 
-# GitHub Desktop for 2024年9月5日 3.4.5 发布说明
+# GitHub Desktop for 2024年9月10日 3.4.5 发布说明
+固定的 引号保留在自定义集成参数中 - [#19218](https://github.com/desktop/desktop/issues/19218)
 
-网页打不开，暂时不清楚更新内容。
+固定的 Windows上的符号链接可以用作自定义编辑器和shell - [#19217](https://github.com/desktop/desktop/issues/19217)
 
 ---
 
