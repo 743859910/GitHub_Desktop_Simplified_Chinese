@@ -21,14 +21,15 @@
 
 GitHub Desktop 官网：https://desktop.github.com
 
+GitHub Desktop 发行说明：https://desktop.github.com/release-notes
+
 GitHub Desktop 下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.2 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.5 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.2 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.5 | 
 
 网盘下载：[点击下载](https://pan.quark.cn/s/e8a71c0ac481)
-
 
 注意：
 请一定要保持Github Desktop版本与本汉化补丁包版本对应，否则汉化后Github Desktop可能会报错或打不开。
@@ -37,18 +38,14 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.2 |
 
 # 这里温馨提醒一下：
 
-### 从官网下载GitHub Desktop 3.4.2安装包时，使用迅雷可以跑满速。
+### 从官网下载 GitHub Desktop 安装包时，推荐使用迅雷等专业下载工具。有VPN可以无视墙内下载慢问题！
 
 ---
 
-# GitHub Desktop for 2024年6月25日 3.4.2 发布说明
-为托管在GitHub.com之外的存储库使用Git凭据管理器的选项 - [#18700](https://github.com/desktop/desktop/issues/18700)
+# GitHub Desktop for 2024年9月10日 3.4.5 发布说明
+固定的 引号保留在自定义集成参数中 - [#19218](https://github.com/desktop/desktop/issues/19218)
 
-允许自定义空格中的制表符宽度 - [#15561](https://github.com/desktop/desktop/issues/15561)
-
-包含空格的远程URL现在将完整显示在远程设置屏幕中 - [#18876](https://github.com/desktop/desktop/issues/18876)
-
-新上传的图片在Pull Request评论和评论中呈现 - [#18830](https://github.com/desktop/desktop/issues/18830)
+固定的 Windows上的符号链接可以用作自定义编辑器和shell - [#19217](https://github.com/desktop/desktop/issues/19217)
 
 ---
 
@@ -83,7 +80,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.2 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.2】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.5】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
