@@ -21,9 +21,15 @@
 
 GitHub Desktop 官网：https://desktop.github.com
 
+GitHub Desktop 仓库：https://github.com/desktop/desktop
+
+GitHub Desktop 发行版：https://github.com/desktop/desktop/releases/latest
+
 GitHub Desktop 发行说明：https://desktop.github.com/release-notes
 
-GitHub Desktop 下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
+GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
+
+GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/download/release-3.4.6/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/download/release-3.4.6/GitHubDesktopSetup-x64.exe) | 
 
 GitHub Desktop 版本：| 3.2.1 - 3.4.6 | 
 
@@ -42,26 +48,26 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.6 |
 
 # 这里温馨提醒一下：
 
-### 从官网下载 GitHub Desktop 安装包时，推荐使用迅雷等专业下载工具。有VPN可以无视墙内下载慢问题！
+从官网下载 GitHub Desktop 安装包时，推荐使用 迅雷、IDM、FDM、NDM、Motrix 等专业下载工具。有VPN的可以无视墙内下载慢问题！
 
 ---
 
 # GitHub Desktop for 2024年10月03日 3.4.6 发布说明
-固定的 探测端点类型时不显示证书错误对话框 - [#18991](https://github.com/desktop/desktop/issues/18991)
+<span style="color: blue;">固定的</span> 探测端点类型时不显示证书错误对话框 - [#18991](https://github.com/desktop/desktop/issues/18991)
 
-固定的 在 toml 中为多行字符串着色 - [#14333](https://github.com/desktop/desktop/issues/14333)
+<span style="color: blue;">固定的</span> 在 toml 中为多行字符串着色 - [#14333](https://github.com/desktop/desktop/issues/14333)
 
-固定的 重新定基时取消设置 GIT_SEQUENCE_EDITOR - [#15413](https://github.com/desktop/desktop/issues/15413)
+<span style="color: blue;">固定的</span> 重新定基时取消设置 GIT_SEQUENCE_EDITOR - [#15413](https://github.com/desktop/desktop/issues/15413)
 
-固定的 使用 `api.` 子域名向 GHE.com 主机发出请求 - [#19312](https://github.com/desktop/desktop/issues/19312)
+<span style="color: blue;">固定的</span> 使用 `api.` 子域名向 GHE.com 主机发出请求 - [#19312](https://github.com/desktop/desktop/issues/19312)
 
-固定的 将现有的 GHE 帐户端点迁移到新的 `api.` 子域 - [#19319](https://github.com/desktop/desktop/issues/19319)
+<span style="color: blue;">固定的</span> 将现有的 GHE 帐户端点迁移到新的 `api.` 子域 - [#19319](https://github.com/desktop/desktop/issues/19319)
 
-固定的 右键单击差异复选标记显示上下文菜单 - [#19302](https://github.com/desktop/desktop/issues/19302)
+<span style="color: blue;">固定的</span> 右键单击差异复选标记显示上下文菜单 - [#19302](https://github.com/desktop/desktop/issues/19302)
 
-固定的 带空格的参数可以正确传递给 Windows 上的自定义编辑器或 shell - [#19218](https://github.com/desktop/desktop/issues/19218)
+<span style="color: blue;">固定的</span> 带空格的参数可以正确传递给 Windows 上的自定义编辑器或 shell - [#19218](https://github.com/desktop/desktop/issues/19218)
 
-已移除 删除关于对话框中的交错更新阻止 - [#19274](https://github.com/desktop/desktop/issues/19274)
+<span style="color: red;">已移除</span> 删除关于对话框中的交错更新阻止 - [#19274](https://github.com/desktop/desktop/issues/19274)
 
 ---
 
