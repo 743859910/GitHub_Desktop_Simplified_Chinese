@@ -53,21 +53,24 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.6 |
 ---
 
 # GitHub Desktop for 2024年10月03日 3.4.6 发布说明
-<span style="color: blue;">固定的</span> 探测端点类型时不显示证书错误对话框 - [#18991](https://github.com/desktop/desktop/issues/18991)
 
-<span style="color: blue;">固定的</span> 在 toml 中为多行字符串着色 - [#14333](https://github.com/desktop/desktop/issues/14333)
+固定的
+ - 探测端点类型时不显示证书错误对话框 - [#18991](https://github.com/desktop/desktop/issues/18991)
 
-<span style="color: blue;">固定的</span> 重新定基时取消设置 GIT_SEQUENCE_EDITOR - [#15413](https://github.com/desktop/desktop/issues/15413)
+ - 在 toml 中为多行字符串着色 - [#14333](https://github.com/desktop/desktop/issues/14333)
 
-<span style="color: blue;">固定的</span> 使用 `api.` 子域名向 GHE.com 主机发出请求 - [#19312](https://github.com/desktop/desktop/issues/19312)
+ - 重新定基时取消设置 GIT_SEQUENCE_EDITOR - [#15413](https://github.com/desktop/desktop/issues/15413)
 
-<span style="color: blue;">固定的</span> 将现有的 GHE 帐户端点迁移到新的 `api.` 子域 - [#19319](https://github.com/desktop/desktop/issues/19319)
+ - 使用 `api.` 子域名向 GHE.com 主机发出请求 - [#19312](https://github.com/desktop/desktop/issues/19312)
+ 
+ - 将现有的 GHE 帐户端点迁移到新的 `api.` 子域 - [#19319](https://github.com/desktop/desktop/issues/19319)
+ 
+ - 右键单击差异复选标记显示上下文菜单 - [#19302](https://github.com/desktop/desktop/issues/19302)
+ 
+ - 带空格的参数可以正确传递给 Windows 上的自定义编辑器或 shell - [#19218](https://github.com/desktop/desktop/issues/19218)
 
-<span style="color: blue;">固定的</span> 右键单击差异复选标记显示上下文菜单 - [#19302](https://github.com/desktop/desktop/issues/19302)
-
-<span style="color: blue;">固定的</span> 带空格的参数可以正确传递给 Windows 上的自定义编辑器或 shell - [#19218](https://github.com/desktop/desktop/issues/19218)
-
-<span style="color: red;">已移除</span> 删除关于对话框中的交错更新阻止 - [#19274](https://github.com/desktop/desktop/issues/19274)
+已移除
+ - 删除关于对话框中的交错更新阻止 - [#19274](https://github.com/desktop/desktop/issues/19274)
 
 ---
 
