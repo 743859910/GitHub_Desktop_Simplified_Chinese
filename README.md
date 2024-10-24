@@ -29,11 +29,11 @@ GitHub Desktop 发行说明：https://desktop.github.com/release-notes
 
 GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
-GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/download/release-3.4.7/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/download/release-3.4.7/GitHubDesktopSetup-x64.exe) | 
+GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/download/release-3.4.8/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/download/release-3.4.8/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.7 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.8 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.7 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.8 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -52,10 +52,10 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.7 |
 
 ---
 
-# GitHub Desktop for 2024年10月24日 3.4.7 发布说明
+# GitHub Desktop for 2024年10月24日 3.4.8 发布说明
 
-改进
- - 支持将 GitHub.com 作为 GitHub Enterprise 端点输入 - [#19342](https://github.com/desktop/desktop/issues/19342)
+固定的
+ - 当用户首次完成欢迎流程并尝试多次登录时，应用程序不再崩溃
 
 ---
 
@@ -90,7 +90,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.7 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.7】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.8】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
