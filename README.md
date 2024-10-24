@@ -29,11 +29,11 @@ GitHub Desktop 发行说明：https://desktop.github.com/release-notes
 
 GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
-GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/download/release-3.4.6/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/download/release-3.4.6/GitHubDesktopSetup-x64.exe) | 
+GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/download/release-3.4.7/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/download/release-3.4.7/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.6 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.7 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.6 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.7 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -52,25 +52,10 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.6 |
 
 ---
 
-# GitHub Desktop for 2024年10月03日 3.4.6 发布说明
+# GitHub Desktop for 2024年10月24日 3.4.7 发布说明
 
-固定的
- - 探测端点类型时不显示证书错误对话框 - [#18991](https://github.com/desktop/desktop/issues/18991)
-
- - 在 toml 中为多行字符串着色 - [#14333](https://github.com/desktop/desktop/issues/14333)
-
- - 重新定基时取消设置 GIT_SEQUENCE_EDITOR - [#15413](https://github.com/desktop/desktop/issues/15413)
-
- - 使用 `api.` 子域名向 GHE.com 主机发出请求 - [#19312](https://github.com/desktop/desktop/issues/19312)
- 
- - 将现有的 GHE 帐户端点迁移到新的 `api.` 子域 - [#19319](https://github.com/desktop/desktop/issues/19319)
- 
- - 右键单击差异复选标记显示上下文菜单 - [#19302](https://github.com/desktop/desktop/issues/19302)
- 
- - 带空格的参数可以正确传递给 Windows 上的自定义编辑器或 shell - [#19218](https://github.com/desktop/desktop/issues/19218)
-
-已移除
- - 删除关于对话框中的交错更新阻止 - [#19274](https://github.com/desktop/desktop/issues/19274)
+改进
+ - 支持将 GitHub.com 作为 GitHub Enterprise 端点输入 - [#19342](https://github.com/desktop/desktop/issues/19342)
 
 ---
 
@@ -105,7 +90,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.6 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.6】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.7】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
