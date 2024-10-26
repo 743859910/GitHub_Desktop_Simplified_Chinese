@@ -25,9 +25,9 @@ GitHub Desktop 发行说明：https://desktop.github.com/release-notes
 
 GitHub Desktop 下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.5 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.8 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.5 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.8 | 
 
 网盘下载：[点击下载](https://pan.quark.cn/s/4b9979bfdc27)
 
@@ -39,13 +39,6 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.5 |
 # 这里温馨提醒一下：
 
 ### 从官网下载 GitHub Desktop 安装包时，推荐使用迅雷等专业下载工具。有VPN可以无视墙内下载慢问题！
-
----
-
-# GitHub Desktop for 2024年9月10日 3.4.5 发布说明
-固定的 引号保留在自定义集成参数中 - [#19218](https://github.com/desktop/desktop/issues/19218)
-
-固定的 Windows上的符号链接可以用作自定义编辑器和shell - [#19217](https://github.com/desktop/desktop/issues/19217)
 
 ---
 
