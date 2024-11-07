@@ -29,11 +29,11 @@ GitHub Desktop 发行说明：https://desktop.github.com/release-notes
 
 GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
-GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/download/release-3.4.8/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/download/release-3.4.8/GitHubDesktopSetup-x64.exe) | 
+GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/download/release-3.4.9/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/download/release-3.4.9/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.8 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.9 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.8 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.9 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -52,14 +52,28 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.8 |
 
 ---
 
-# GitHub Desktop for 2024年10月24日 3.4.8 发布说明
+# GitHub Desktop for 2024年11月07日 3.4.9 发布说明
 
-固定的
- - 当用户首次完成欢迎流程并尝试多次登录时，应用程序不再崩溃
+固定
+ - 首次通过欢迎流程并尝试多次登录的用户，应用程序不再崩溃 - #[19442](https://github.com/desktop/desktop/pull/19442)
+ - 配置为使用二进制合并驱动程序的文件现在在解决冲突时被视为二进制文件 - #[9846](https://github.com/desktop/desktop/pull/9846)
+ - 修复UI故障渲染工具提示 - #[19342](https://github.com/desktop/desktop/pull/19342)
+
+改进
+ - 将切换共同作者按钮的提示文本替换为常规工具提示 - #[19383](https://github.com/desktop/desktop/pull/19383)
+ - 使用操作系统表情符号 - #[19102](https://github.com/desktop/desktop/pull/19102)
+ - 插入Unicode表情符号 - #[19376](https://github.com/desktop/desktop/pull/19376)
+ - 允许收件箱分支和推/拉工具栏按钮 - #[4569](https://github.com/desktop/desktop/pull/4569) #[17388](https://github.com/desktop/desktop/pull/17388)。谢谢[@jpedroso](https://github.com/jpedroso)！
+ - 将电子升级到v32.1.2 - #[19334](https://github.com/desktop/desktop/pull/19334)
+ - “提交可达性”对话框中的提交列表可在屏幕阅读器的浏览模式下浏览 - #[19341](https://github.com/desktop/desktop/pull/19341)
+
+移除
+ - 删除规则集绕过确认模式 - #[19281](https://github.com/desktop/desktop/pull/19281)。谢谢[@lofcz](https://github.com/lofcz)！
 
 ---
 
 # Linux 简体中文汉化
+
 将本仓库中Linux文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
 本地GitHub Desktop资源目录一般为：/usr/lib/github-desktop/resources/app
@@ -90,7 +104,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.8 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.8】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.9】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
