@@ -29,11 +29,11 @@ GitHub Desktop 发行说明：https://desktop.github.com/release-notes
 
 GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
-GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/download/release-3.4.9/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/download/release-3.4.9/GitHubDesktopSetup-x64.exe) | 
+GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.9 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.10 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.9 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.10 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -48,27 +48,35 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.9 |
 
 # 这里温馨提醒一下：
 
-从官网下载 GitHub Desktop 安装包时，推荐使用 迅雷、IDM、FDM、NDM、Motrix 等专业下载工具。有VPN的可以无视墙内下载慢问题！
+从官网下载 GitHub Desktop 安装包时，推荐使用：迅雷、IDM、FDM、NDM、Motrix 等专业下载工具。有VPN的可以无视墙内下载慢问题！
 
 ---
 
-# GitHub Desktop for 2024年11月07日 3.4.9 发布说明
+# GitHub Desktop for 2024年12月13日 3.4.10 发布说明
+
+额外
+ - 添加横幅，用于在存在优先更新时进行沟通 - [#19655](https://github.com/desktop/desktop/pull/19655)
+ - 将“在 GitHub 上查看拉取请求”选项添加到已签出分支按钮和拉取请求列表中 - [#19453](https://github.com/desktop/desktop/issues/19453)。谢谢[@DylanDevelops](https://github.com/DylanDevelops)！
 
 固定
- - 首次通过欢迎流程并尝试多次登录的用户，应用程序不再崩溃 - #[19442](https://github.com/desktop/desktop/pull/19442)
- - 配置为使用二进制合并驱动程序的文件现在在解决冲突时被视为二进制文件 - #[9846](https://github.com/desktop/desktop/pull/9846)
- - 修复UI故障渲染工具提示 - #[19342](https://github.com/desktop/desktop/pull/19342)
+ - 准确计算合并中冲突文件的数量 - [#8049](https://github.com/desktop/desktop/issues/8049)
+ - 当暂存重命名文件发生更改时通知用户 - [#17467](https://github.com/desktop/desktop/pull/17467)。谢谢[@ssigwart](https://github.com/ssigwart)！
+ - 存储库设置中的远程 URL 的可视标签由屏幕阅读器播报 - [#19647](https://github.com/desktop/desktop/pull/19647)
+ - 删除重复的头像用户 - [#19597](https://github.com/desktop/desktop/issues/19597)
+ - 修复文本框中清除按钮的缩进问题 - [#19613](https://github.com/desktop/desktop/issues/19613)。谢谢[@artbutko](https://github.com/artbutko)！
+ - 屏幕阅读器宣布可选列表（例如历史提交列表）中列表项的位置 - [#19603](https://github.com/desktop/desktop/issues/19603)
+ - 限制我们接受的提交消息长度 - [#15355](https://github.com/desktop/desktop/issues/15355)
+ - 防止大型 git 状态操作出现存储库未找到消息 - [#19583](https://github.com/desktop/desktop/pull/19583)
+ - 将 aria-labelledby 和 aria-scribeby 属性添加到“显示空白变化？”弹出窗口 - [#19518](https://github.com/desktop/desktop/pull/19518)
+ - 修复共同作者文本框的逻辑标签顺序 - [#19517](https://github.com/desktop/desktop/pull/19517)
+ - 允许使用 Esc 关闭提交消息警告弹出窗口 - [#19514](https://github.com/desktop/desktop/pull/19514)
 
 改进
- - 将切换共同作者按钮的提示文本替换为常规工具提示 - #[19383](https://github.com/desktop/desktop/pull/19383)
- - 使用操作系统表情符号 - #[19102](https://github.com/desktop/desktop/pull/19102)
- - 插入Unicode表情符号 - #[19376](https://github.com/desktop/desktop/pull/19376)
- - 允许收件箱分支和推/拉工具栏按钮 - #[4569](https://github.com/desktop/desktop/pull/4569) #[17388](https://github.com/desktop/desktop/pull/17388)。谢谢[@jpedroso](https://github.com/jpedroso)！
- - 将电子升级到v32.1.2 - #[19334](https://github.com/desktop/desktop/pull/19334)
- - “提交可达性”对话框中的提交列表可在屏幕阅读器的浏览模式下浏览 - #[19341](https://github.com/desktop/desktop/pull/19341)
-
-移除
- - 删除规则集绕过确认模式 - #[19281](https://github.com/desktop/desktop/pull/19281)。谢谢[@lofcz](https://github.com/lofcz)！
+ - 改进了‘超出文件大小限制’对话框中文件列表的外观 - [#19581](https://github.com/desktop/desktop/pull/19581)
+ - 可调整大小元素的调整大小事件由屏幕阅读器宣告 - [#19649](https://github.com/desktop/desktop/pull/19649)
+ - 更新 Linux 上一些 JetBrains 编辑器的名称 - [#19637](https://github.com/desktop/desktop/issues/19637)。谢谢[@ankddev](https://github.com/ankddev)！
+ - 滑动图像差异现在可以更好地处理具有透明度的图像 - [#16657 ](https://github.com/desktop/desktop/issues/16657)[#17735](https://github.com/desktop/desktop/issues/17735)。谢谢[@Psychpsyo](https://github.com/Psychpsyo)！
+ - 提交信息现在显示正确的缩进 - [#17691](https://github.com/desktop/desktop/issues/17691)。谢谢[@SuperLlama88888](https://github.com/SuperLlama88888)！
 
 ---
 
@@ -104,7 +112,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.9 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.9】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.10】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
