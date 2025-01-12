@@ -70,7 +70,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.12 |
 
 完成后界面
 ---
-![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Linux.webp)
+![](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Linux.webp)
 
 ---
 
@@ -84,7 +84,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.12 |
 
 完成后界面
 ---
-![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Mac.webp)
+![](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Mac.webp)
 
 ---
 
@@ -98,7 +98,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.12 |
 
 完成后界面
 ---
-![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Windows.webp)
+![](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Windows.webp)
 
 ---
 
@@ -107,23 +107,23 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.12 |
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/1.webp">
+  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/2.webp">
+  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/3.webp">
+  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/4.webp">
+  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/5.webp">
+  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/5.webp">
 </p>
 
 ---
