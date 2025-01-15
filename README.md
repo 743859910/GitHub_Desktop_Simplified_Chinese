@@ -31,9 +31,9 @@ GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/r
 
 GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.12 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.13 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.12 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.13 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -52,10 +52,10 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.12 |
 
 ---
 
-# GitHub Desktop for 2024年12月18日 3.4.12 发布说明
+# GitHub Desktop for 2025年1月15日 3.4.13 发布说明
 
 固定
- - 合并分支对话框更新在更改选择时是否可以合并分支 - [#19730](https://github.com/desktop/desktop/issues/19730)
+ - 缓解了与 Git 的凭证帮助程序协议相关的多个漏洞 - CVE-2024-50349、CVE-2024-52006、CVE-2024-50338、CVE-2024-53263
 
 ---
 
@@ -84,14 +84,14 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.12 |
 
 完成后界面
 ---
-![](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Mac.webp)
+![](https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/MacOS.webp)
 
 ---
 
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.12】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.13】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
