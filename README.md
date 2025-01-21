@@ -31,9 +31,9 @@ GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/r
 
 GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.13 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.14 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.13 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.14 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -52,10 +52,26 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.13 |
 
 ---
 
-# GitHub Desktop for 2025年1月15日 3.4.13 发布说明
+# GitHub Desktop for 2025年1月21日 3.4.14 发布说明
 
-固定
- - 缓解了与 Git 的凭证帮助程序协议相关的多个漏洞 - CVE-2024-50349、CVE-2024-52006、CVE-2024-50338、CVE-2024-53263
+**额外**
+ - 添加 Ghostty shell 集成 - [#19777](https://github.com/desktop/desktop/pull/19777)。谢谢[@aelew](https://github.com/aelew)！
+
+**固定的**
+ - `.gitignore`向不存在的文件添加内容时不会添加额外的新行`.gitignore`- [#19279](https://github.com/desktop/desktop/pull/19279)。谢谢[@GWDx](https://github.com/GWDx)！
+ - 修复分支列表上下文菜单在不存在拉取请求选项时显示该选项的问题 - [#19711](https://github.com/desktop/desktop/issues/19711)。谢谢[@DylanDevelops](https://github.com/DylanDevelops)！
+ - “感谢”横幅由 VoiceOver 播报 - [#19734](https://github.com/desktop/desktop/pull/19734)
+ - 使用 VoiceOver 时，“展示更新横幅”和“操作系统版本不再支持横幅”会播报其消息。
+ - 展示更新横幅的“x”按钮将关闭横幅。
+
+**改进**
+ - 桌面 CLI 不再通过协议处理程序与应用程序通信 - [#19733](https://github.com/desktop/desktop/pull/19733)
+ - 推迟昂贵的路径验证，直到需要时才执行 - [#19694](https://github.com/desktop/desktop/pull/19694)
+
+**已移除**
+ - 删除 CI 状态指示器上的工具提示 - [#19735](https://github.com/desktop/desktop/pull/19735)
+ - 放弃对 Atom 的支持，直接调用编辑器 - [#19744](https://github.com/desktop/desktop/pull/19744)
+ - “辅助功能设置”公告横幅已被删除。
 
 ---
 
@@ -91,7 +107,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.13 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.13】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.14】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
