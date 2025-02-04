@@ -31,9 +31,9 @@ GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/r
 
 GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.15 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.16 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.15 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.16 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -52,10 +52,10 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.15 |
 
 ---
 
-# GitHub Desktop for 2025年1月22日 3.4.15 发布说明
+# GitHub Desktop for 2025年2月4日 3.4.16 发布说明
 
-**固定的**
- - 恢复 Windows 登录能力
+**改进**
+ - 防止从即将不再受支持的 macOS 10.15 升级 - [#19918](https://github.com/desktop/desktop/pull/19918)
 
 ---
 
@@ -91,7 +91,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.15 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.15】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.16】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
