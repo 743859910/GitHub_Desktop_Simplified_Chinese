@@ -31,9 +31,9 @@ GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/r
 
 GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.16 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.17 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.16 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.17 | 
 
 蓝奏云：https://www.lanzouy.com/b00roqguj
 
@@ -52,10 +52,25 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.16 |
 
 ---
 
-# GitHub Desktop for 2025年2月4日 3.4.16 发布说明
+# GitHub Desktop for 2025年2月27日 3.4.17 发布说明
+
+**固定的**
+ - 对话框在 macOS Sequoia 上为 VoiceOver 用户宣布其标题 - [#20009](https://github.com/desktop/desktop/pull/20009)
+ - 提交按钮单词以空格分隔，方便屏幕阅读器用户使用 - [#20011](https://github.com/desktop/desktop/pull/20011)
+ - 尝试启动权限不足的外部编辑器时防止崩溃 - [#19929](https://github.com/desktop/desktop/issues/19929)
+ - 在 Windows 上运行桌面 CLI 不再等待桌面退出后再自行退出 - [#19916](https://github.com/desktop/desktop/issues/19916)
 
 **改进**
- - 防止从即将不再受支持的 macOS 10.15 升级 - [#19918](https://github.com/desktop/desktop/pull/19918)
+ - 在关于对话框中宣布更新进度 - [#20018](https://github.com/desktop/desktop/pull/20018)
+ - 带有下拉插入符号的按钮可以通过向下箭头打开，从而触发上下文菜单 - [#20007](https://github.com/desktop/desktop/pull/20007)
+ - 不打开外部 URL 的链接现在具有按钮的作用，以改进屏幕阅读器语义 - [#20010](https://github.com/desktop/desktop/pull/20010)
+ - 电子邮件归因警告仅考虑已验证的电子邮件 - [#19968](https://github.com/desktop/desktop/pull/19968)
+ - 改进未知合著者的工具提示 - [#19992](https://github.com/desktop/desktop/pull/19992)
+ - 缩短的 SHA 的长度始终为 7 个字符 - [#19902](https://github.com/desktop/desktop/issues/19902)。谢谢[@molnarriso](https://github.com/molnarriso)！
+ - 将 Electron 升级到 v34.0.1 - [#19919](https://github.com/desktop/desktop/pull/19919)
+
+**已移除**
+ - 删除对 macOS 10.15 的支持 - [#19919](https://github.com/desktop/desktop/pull/19919)
 
 ---
 
@@ -91,7 +106,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.16 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.16】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.17】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
