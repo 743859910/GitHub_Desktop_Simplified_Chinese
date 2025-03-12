@@ -35,13 +35,9 @@ GitHub Desktop 版本：| 3.2.1 - 3.4.18 |
 
 GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.18 | 
 
-蓝奏云：https://www.lanzouy.com/b00roqguj
+---
 
-如链接打不开，可将lanzouy中的y用26个英文字母中的任意一个替换即可。
-
-密码：1234
-
-注意：
+# 注意：
 请一定要保持Github Desktop版本与本汉化补丁包版本对应，否则汉化后Github Desktop可能会报错或打不开。
 
 ---
@@ -54,9 +50,41 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.18 |
 
 # GitHub Desktop for 2025年3月12日 3.4.18 发布说明
 
-**固定的**
- - 防止因非严重错误导致崩溃 - #20150
- - 恢复“关于”对话框中上次检查的文本中缺失的空格 - #20094。谢谢@alexravenna！
+**固定**
+ - 防止由于非严重错误而导致崩溃 - [#20150](https://github.com/desktop/desktop/pull/20150)
+ - 恢复上次检查的“关于”对话框中缺少的空格 - [#20094](https://github.com/desktop/desktop/pull/20094)。谢谢 ！
+
+---
+
+| 序号 |               链接                | 状态 |
+| :--: | :------------------------------: | :--: |
+| 0  | 蓝奏云：https://www.lanzou.com/b00roqguj 密码：1234 |      |
+| 1  | 蓝奏云：https://www.lanzoua.com/b00roqguj 密码：1234 |      |
+| 2  | 蓝奏云：https://www.lanzoub.com/b00roqguj 密码：1234 | 可用 |
+| 3  | 蓝奏云：https://www.lanzouc.com/b00roqguj 密码：1234 | 可用 |
+| 4  | 蓝奏云：https://www.lanzoud.com/b00roqguj 密码：1234 |     |
+| 5  | 蓝奏云：https://www.lanzoue.com/b00roqguj 密码：1234 | 可用 |
+| 6  | 蓝奏云：https://www.lanzouf.com/b00roqguj 密码：1234 | 可用 |
+| 7  | 蓝奏云：https://www.lanzoug.com/b00roqguj 密码：1234 | 可用 |
+| 8  | 蓝奏云：https://www.lanzouh.com/b00roqguj 密码：1234 | 可用 |
+| 9  | 蓝奏云：https://www.lanzoui.com/b00roqguj 密码：1234 | 可用 |
+| 10 | 蓝奏云：https://www.lanzouj.com/b00roqguj 密码：1234 | 可用 |
+| 11 | 蓝奏云：https://www.lanzouk.com/b00roqguj 密码：1234 | 可用 |
+| 12 | 蓝奏云：https://www.lanzoul.com/b00roqguj 密码：1234 | 可用 |
+| 13 | 蓝奏云：https://www.lanzoum.com/b00roqguj 密码：1234 | 可用 |
+| 14 | 蓝奏云：https://www.lanzoun.com/b00roqguj 密码：1234 |     |
+| 15 | 蓝奏云：https://www.lanzouo.com/b00roqguj 密码：1234 | 可用 |
+| 16 | 蓝奏云：https://www.lanzoup.com/b00roqguj 密码：1234 | 可用 |
+| 17 | 蓝奏云：https://www.lanzouq.com/b00roqguj 密码：1234 | 可用 |
+| 18 | 蓝奏云：https://www.lanzour.com/b00roqguj 密码：1234 |     |
+| 19 | 蓝奏云：https://www.lanzous.com/b00roqguj 密码：1234 |     |
+| 20 | 蓝奏云：https://www.lanzout.com/b00roqguj 密码：1234 | 可用 |
+| 21 | 蓝奏云：https://www.lanzouu.com/b00roqguj 密码：1234 | 可用 |
+| 22 | 蓝奏云：https://www.lanzouv.com/b00roqguj 密码：1234 | 可用 |
+| 23 | 蓝奏云：https://www.lanzouw.com/b00roqguj 密码：1234 | 可用 |
+| 24 | 蓝奏云：https://www.lanzoux.com/b00roqguj 密码：1234 | 可用 |
+| 25 | 蓝奏云：https://www.lanzouy.com/b00roqguj 密码：1234 | 可用 |
+| 26 | 蓝奏云：https://www.lanzouz.com/b00roqguj 密码：1234 |     |
 
 ---
 
@@ -143,6 +171,6 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.18 |
 
 [MIT License](https://github.com/743859910/GitHub_Desktop_Simplified_Chinese/blob/master/LICENSE)
 
-Copyright © 2008-2025 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008 - 2025 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
