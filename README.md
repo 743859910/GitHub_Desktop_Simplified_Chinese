@@ -27,13 +27,13 @@ GitHub Desktop 发行版：https://github.com/desktop/desktop/releases/latest
 
 GitHub Desktop 发行说明：https://desktop.github.com/release-notes
 
-GitHub Desktop 客户端下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
+GitHub Desktop 客户端官网下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://central.github.com/deployments/desktop/desktop/latest/darwin) | [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32) | 
 
-GitHub Desktop 客户端仓库下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
+GitHub Desktop 客户端Releases下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.4.20 | 
+GitHub Desktop 版本：| 3.2.1 - 3.4.21 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.20 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.21 | 
 
 ---
 
@@ -42,10 +42,21 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.20 |
 
 ---
 
-# GitHub Desktop for 2025年5月21日 3.4.20 发布说明
+# GitHub Desktop for 2025年6月12日 3.4.21 发布说明
 
-**固定**
- - 在 Windows 上使用重命名的 UNC 路径防止网络共享遍历
+**额外**
+ - 在友好对话框中处理 GitHub Secret Scanning 推送保护错误，并能够绕过被阻止的不需要批准的机密 - [#20386](https://github.com/desktop/desktop/pull/20386)、[#20387](https://github.com/desktop/desktop/pull/20387)、[#20391](https://github.com/desktop/desktop/pull/20391)
+
+**固定的**
+ - 修复“谢谢”横幅中的文字间距 - [#20411](https://github.com/desktop/desktop/pull/20411)
+ - 单选按钮输入框包含单选按钮周围的区域作为点击表面 - [#20404](https://github.com/desktop/desktop/issues/20404)
+ - 再次快速选中或取消选中大量文件 - [#20429](https://github.com/desktop/desktop/issues/20429)
+ - 修复在现有非 Git 目录上创建存储库的路径 - [#20400](https://github.com/desktop/desktop/pull/20400)
+ - 从“提交为”弹出窗口打开 Git 设置时显示默认分支名称 - [#20399](https://github.com/desktop/desktop/pull/20399)
+
+**改进**
+ - 将 Electron 升级到 v36.1.0 - [#20450](https://github.com/desktop/desktop/pull/20450)
+ - 用户可以在菜单中的更改列表中关闭过滤器`View`- [#20303](https://github.com/desktop/desktop/issues/20303)
 
 ---
 
@@ -81,7 +92,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.4.20 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.20】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.4.21】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
