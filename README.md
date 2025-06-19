@@ -60,7 +60,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.0 |
 
 完成后界面
 ---
-![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Linux.webp)
+![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/image/images/Linux.webp)
 
 ---
 
@@ -74,7 +74,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.0 |
 
 完成后界面
 ---
-![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/MacOS.webp)
+![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/image/images/MacOS.webp)
 
 ---
 
@@ -88,7 +88,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.0 |
 
 完成后界面
 ---
-![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/Windows.webp)
+![](https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/image/images/Windows.webp)
 
 ---
 
@@ -97,23 +97,23 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.0 |
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/image/images/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/image/images/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/image/images/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/image/images/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/743859910/GitHub_Desktop_Simplified_Chinese/master/img/image/images/5.webp">
 </p>
 
 ---
