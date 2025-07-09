@@ -31,9 +31,9 @@ GitHub Desktop 客户端官网下载：| [Linux](https://github.com/shiftkey/des
 
 GitHub Desktop 客户端Releases下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.5.0 | 
+GitHub Desktop 版本：| 3.2.1 - 3.5.1 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.0 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.1 | 
 
 ---
 
@@ -42,10 +42,13 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.0 |
 
 ---
 
-# GitHub Desktop for 2025年6月18日 3.5.0 发布说明
+# GitHub Desktop for 2025年7月9日 3.5.1 发布说明
 
-**新的**
- - Copilot 现在只需单击一下即可帮助您制作 AI 生成的提交消息 - [#17439](https://github.com/desktop/desktop/issues/17439)
+**固定的**
+- 修改提交时使用所有更改来生成提交消息 - [#20664](https://github.com/desktop/desktop/issues/20664)
+
+**改进**
+- 在 macOS 上将嵌入式 Git 升级到 v2.47.3，在 Windows 上升级到 v2.47.3.windows.1
 
 ---
 
@@ -81,7 +84,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.0 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.0】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.1】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
