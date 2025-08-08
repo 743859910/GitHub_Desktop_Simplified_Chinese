@@ -126,7 +126,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.2 |
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{GitHub_Desktop_Simplified_Chinese}/count.svg)
+![name](https://api.likepoems.com/counter/get/@GitHub_Desktop_Simplified_Chinese)
 
 ---
 
