@@ -31,9 +31,9 @@ GitHub Desktop 客户端官网下载：| [Linux](https://github.com/shiftkey/des
 
 GitHub Desktop 客户端Releases下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.5.2 | 
+GitHub Desktop 版本：| 3.2.1 - 3.5.3 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.2 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.3 | 
 
 ---
 
@@ -42,18 +42,20 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.2 |
 
 ---
 
-# GitHub Desktop for 2025年7月22日 3.5.2 发布说明
+# GitHub Desktop for 2025年10月08日 3.5.3 发布说明
+
+**额外**
+- 添加 Ptyxis shell 集成 - [#20963](https://github.com/desktop/desktop/issues/20963)。谢谢[@logonoff](https://github.com/logonoff)！
 
 **固定的**
-- 修复打开 Pull Request 相关通知时有时发生的崩溃 - [#20761](https://github.com/desktop/desktop/pull/20761)
-- 确保链接上的光标类型为指针 - [#20766](https://github.com/desktop/desktop/pull/20766)。谢谢[@huanfe1](https://github.com/huanfe1)！
-- 修复压缩对话框中的 CmdOrCtrl+Enter - [#20716](https://github.com/desktop/desktop/issues/20716)
-- 当存储库列表更新时，存储库列表中的键盘选择现在会保留 - [#20672](https://github.com/desktop/desktop/issues/20672)
-- 组织不再作为最近组中具有别名的存储库的前缀 - [#20651](https://github.com/desktop/desktop/pull/20651)
+- 副驾驶消息生成进度消息已向屏幕阅读器公布 - [#21008](https://github.com/desktop/desktop/pull/21008)
+- 修复：改善图形和文本之间的间距 - [#7500](https://github.com/desktop/desktop/issues/7500)。谢谢[@robbierotman](https://github.com/robbierotman)！
+- 焦点落在冲突解决对话框中的第一个交互式控件上，而不是“继续”按钮上 - [#20880](https://github.com/desktop/desktop/pull/20880)
 
 **改进**
-- 教程在高缩放级别下进行自适应调整 - [#20691](https://github.com/desktop/desktop/pull/20691)
-- 添加按状态（已修改、新建、已删除、未跟踪）以及按文件排除（从提交中排除）筛选已更改文件的功能 - [#20537](https://github.com/desktop/desktop/pull/20537)。谢谢[@Gr8z](https://github.com/Gr8z)！
+- 将 Electron 升级到 v38.2.0 - [#21060](https://github.com/desktop/desktop/pull/21060)
+- “文件不存在”合并冲突警告的文本颜色满足 4.5:1 对比度要求 - [#20902](https://github.com/desktop/desktop/pull/20902)
+- 在单个精简的工具提示中提供列表项的工具提示，允许键盘用户和屏幕阅读器用户在导航列表项时访问 - [#20804](https://github.com/desktop/desktop/pull/20804)
 
 ---
 
@@ -89,7 +91,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.2 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.2】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.3】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
