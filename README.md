@@ -31,9 +31,9 @@ GitHub Desktop 客户端官网下载：| [Linux](https://github.com/shiftkey/des
 
 GitHub Desktop 客户端Releases下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.5.3 | 
+GitHub Desktop 版本：| 3.2.1 - 3.5.4 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.3 | 
+GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.4 | 
 
 ---
 
@@ -42,20 +42,25 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.3 |
 
 ---
 
-# GitHub Desktop for 2025年10月08日 3.5.3 发布说明
-
-**额外**
-- 添加 Ptyxis shell 集成 - [#20963](https://github.com/desktop/desktop/issues/20963)。谢谢[@logonoff](https://github.com/logonoff)！
+# GitHub Desktop for 2025年11月07日 3.5.4 发布说明
 
 **固定的**
-- 副驾驶消息生成进度消息已向屏幕阅读器公布 - [#21008](https://github.com/desktop/desktop/pull/21008)
-- 修复：改善图形和文本之间的间距 - [#7500](https://github.com/desktop/desktop/issues/7500)。谢谢[@robbierotman](https://github.com/robbierotman)！
-- 焦点落在冲突解决对话框中的第一个交互式控件上，而不是“继续”按钮上 - [#20880](https://github.com/desktop/desktop/pull/20880)
+- 将 Git LFS 更新至 3.7.1 以修复[CVE-2025-26625 漏洞](https://github.com/advisories/GHSA-6pvw-g552-53c5)
+- 重新运行检查对话框中的运行状态图标应包含屏幕阅读器可访问的状态提示信息 - [#21191](https://github.com/desktop/desktop/pull/21191)
+- 当启用“隐藏空格更改”时，右键单击差异行会弹出空格提示 - [#20848](https://github.com/desktop/desktop/issues/20848)。谢谢。[@zekariasasaminew](https://github.com/zekariasasaminew)！
+- 登录对话框中的取消按钮在登录尝试后启用 - [#21144](https://github.com/desktop/desktop/issues/21144)。谢谢。[@zekariasasaminew](https://github.com/zekariasasaminew)！
+- 使用其他帐户登录后，“错误归属的提交”弹出窗口中的“更新电子邮件”按钮可以正常工作 - [#21176](https://github.com/desktop/desktop/pull/21176)
+- 改进使用身份验证代理时的主机发现功能 - [#19039 ](https://github.com/desktop/desktop/issues/19039)[#19120](https://github.com/desktop/desktop/issues/19120)
+- 修复添加代码块时差异搜索结果高亮显示不可见的问题 - [#21134](https://github.com/desktop/desktop/pull/21134)
+- 将 Copilot 提交消息生成功能添加到右键菜单 - [#21000](https://github.com/desktop/desktop/issues/21000)。谢谢。[@zekariasasaminew](https://github.com/zekariasasaminew)！
+- 覆盖复选框和单选按钮的系统强调色 - [#21088](https://github.com/desktop/desktop/pull/21088)
 
 **改进**
-- 将 Electron 升级到 v38.2.0 - [#21060](https://github.com/desktop/desktop/pull/21060)
-- “文件不存在”合并冲突警告的文本颜色满足 4.5:1 对比度要求 - [#20902](https://github.com/desktop/desktop/pull/20902)
-- 在单个精简的工具提示中提供列表项的工具提示，允许键盘用户和屏幕阅读器用户在导航列表项时访问 - [#20804](https://github.com/desktop/desktop/pull/20804)
+- 拉取请求检查运行按钮上的图标对比度符合至少 3:1 的对比度要求 - [#21189](https://github.com/desktop/desktop/pull/21189)
+- macOS Tahoe 系统标题栏高度增加 - [#21135](https://github.com/desktop/desktop/issues/21135)。谢谢。[@berkcebi](https://github.com/berkcebi)！
+- 在 PR 预览对话框中显示行更改次数 - [#21126](https://github.com/desktop/desktop/pull/21126)。谢谢。[@iammola](https://github.com/iammola)！
+- 允许用户跳过提交消息覆盖确认 - [#21025](https://github.com/desktop/desktop/pull/21025)。谢谢。[@ilyassesalama](https://github.com/ilyassesalama)！
+- 允许在非 GitHub 仓库中使用 Copilot 生成提交 - [#20698](https://github.com/desktop/desktop/issues/20698)。谢谢。[@schroedermarius](https://github.com/schroedermarius)！
 
 ---
 
@@ -91,7 +96,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.3 |
 # Windows 简体中文汉化
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.3】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.4】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
