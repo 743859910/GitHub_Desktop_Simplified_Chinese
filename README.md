@@ -133,10 +133,6 @@ GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.4 |
 
 ---
 
-![name](https://api.likepoems.com/counter/get/@GitHub_Desktop_Simplified_Chinese)
-
----
-
 昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
