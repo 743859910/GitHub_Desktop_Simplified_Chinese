@@ -31,9 +31,9 @@ GitHub Desktop 客户端官网下载：| [Linux](https://github.com/shiftkey/des
 
 GitHub Desktop 客户端Releases下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.2.1 - 3.5.6 | 
+GitHub Desktop 版本：| 3.5.0 - 3.5.6 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.2.1 - 3.5.6 | 
+GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.5.6 | 
 
 ---
 
