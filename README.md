@@ -31,9 +31,9 @@ GitHub Desktop 客户端官网下载：| [Linux](https://github.com/shiftkey/des
 
 GitHub Desktop 客户端Releases下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.5.0 - 3.5.6 | 
+GitHub Desktop 版本：| 3.5.0 - 3.5.7 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.5.6 | 
+GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.5.7 | 
 
 ---
 
@@ -43,20 +43,24 @@ GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.5.6 |
 
 ---
 
-# GitHub Desktop for 2026年03月17日 3.5.6 发布说明
+# GitHub Desktop for 2026年04月01日 3.5.7 发布说明
 
-**新**
-- 支持将 Copilot 添加为共同作者，并显示可提及用户的头像 - [#21634](https://github.com/desktop/desktop/pull/21634)
+**额外**
+- 重命名分支对话框现在会根据存储库规则集验证分支名称 - [#21822](https://github.com/desktop/desktop/pull/21822)
+- 允许通过提交选项菜单提交空提交 - [#21771](https://github.com/desktop/desktop/pull/21771)
+- 为开发者原创性证书工作流程添加选项，在提交记录中包含“签名者”尾部 - [#21741](https://github.com/desktop/desktop/pull/21741)
 
 **固定的**
-- 修复对从 JetBrains Toolbox 安装的 IDE 的检测问题 - [#21498](https://github.com/desktop/desktop/issues/21498)
-- 选择最适合当前仓库的帐户来生成提交消息 - [#21484](https://github.com/desktop/desktop/issues/21484)
-- 移除 hooks 输出中末尾的 $ 符号拼写错误 - [#21638](https://github.com/desktop/desktop/pull/21638)
+- 现在即使 GitHub Desktop 窗口未获得焦点，“放弃更改”操作也能完成 - [#21739](https://github.com/desktop/desktop/pull/21739)
+- 允许从空仓库获取源文件 - [#4574 ](https://github.com/desktop/desktop/issues/4574)[#4575](https://github.com/desktop/desktop/pull/4575)。谢谢。[@jackfreem](https://github.com/jackfreem)！
+- 修复调整窗口大小时的背景颜色问题 - [#21548](https://github.com/desktop/desktop/issues/21548)。谢谢。[@BaldrianSector](https://github.com/BaldrianSector)！
+- 忽略终端中的 Tab 键并保持文本区域启用 - [#21696](https://github.com/desktop/desktop/issues/21696)
+- 在提交过程中切换到“历史记录”选项卡时，成功提交后清除提交消息 - [#21721](https://github.com/desktop/desktop/pull/21721)
 
 **改进**
-- 将 Git 更新至 2.53.0 版本
-- 将 Git for Windows 更新至 2.53.0.windows.2 版本。
-- 将 Git 凭证管理器更新至 2.7.3 版本
+- macOS Tahoe 的 Liquid Glass 图标 - [#21010](https://github.com/desktop/desktop/issues/21010)。谢谢。[@fabe](https://github.com/fabe)和[@caiofbpa](https://github.com/caiofbpa)！
+- 将默认标签页大小从 8 个字符改为 4 个字符 - [#21705](https://github.com/desktop/desktop/issues/21705)。谢谢。[@advaith1](https://github.com/advaith1)！
+- 在提交归属中识别 Copilot CLI 机器人 - [#21727](https://github.com/desktop/desktop/pull/21727)
 
 ---
 
@@ -94,7 +98,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.5.6 |
 
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.6】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.7】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
