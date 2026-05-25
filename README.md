@@ -31,9 +31,9 @@ GitHub Desktop 客户端官网下载：| [Linux](https://github.com/shiftkey/des
 
 GitHub Desktop 客户端Releases下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.5.0 - 3.5.9 | 
+GitHub Desktop 版本：| 3.5.0 - 3.5.10 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.5.9 | 
+GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.5.10 | 
 
 ---
 
@@ -43,21 +43,13 @@ GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.5.9 |
 
 ---
 
-# GitHub Desktop for 2026年05月21日 3.5.9 发布说明
+# GitHub Desktop for 2026年05月22日 3.5.10 发布说明
+
+**额外**
+- 在外观设置中添加日期、时间和数字格式首选项 - [#21836](https://github.com/desktop/desktop/pull/21836)
 
 **固定的**
-- 修剪期间跳过已检出的关联工作树中的分支 - [#8043](https://github.com/desktop/desktop/issues/8043)。谢谢。[@KRRT7](https://github.com/KRRT7)！
-- 修复提交信息区域中按钮的样式 - [#22075](https://github.com/desktop/desktop/pull/22075)
-- 修复已更改文件长列表的渲染问题 - [#21630](https://github.com/desktop/desktop/issues/21630)
-- 为 .astro 文件添加语法高亮显示 - [#21987](https://github.com/desktop/desktop/issues/21987)。谢谢。[@JunDev76](https://github.com/JunDev76)！
-- 修复 Windows 滚动条与 react-virtualized Grid 的同步问题 - [#21940](https://github.com/desktop/desktop/issues/21940)
-- 改进发行说明对话框的间距 - [#21962](https://github.com/desktop/desktop/issues/21962)。谢谢。[@DylanDevelops](https://github.com/DylanDevelops)！
-- 修复了在执行多提交操作期间，当冲突对话框打开时可能发生的崩溃（超出最大更新深度）问题 - [#21879](https://github.com/desktop/desktop/pull/21879)
-- 从企业登录界面移除已停用的 GitHub AE 引用 - [#21926](https://github.com/desktop/desktop/pull/21926)。谢谢。[@toddmanion](https://github.com/toddmanion)！
-
-**改进**
-- 启用最大 1MB 的差异展开和语法高亮显示 - [#21876](https://github.com/desktop/desktop/pull/21876)
-- 更新 re2js 正则表达式引擎，使用优化的 DFA 路径以提升性能 - [#21924](https://github.com/desktop/desktop/pull/21924)。谢谢。[@le0pard](https://github.com/le0pard)！
+- 尝试加载 Copilot 模型时间歇性崩溃
 
 ---
 
@@ -95,7 +87,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.5.9 |
 
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.9】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.5.10】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
