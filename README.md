@@ -31,9 +31,9 @@ GitHub Desktop 客户端官网下载：| [Linux](https://github.com/shiftkey/des
 
 GitHub Desktop 客户端Releases下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.5.0 - 3.6.0 | 
+GitHub Desktop 版本：| 3.5.0 - 3.6.1 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.0 | 
+GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.1 | 
 
 ---
 
@@ -43,21 +43,13 @@ GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.0 |
 
 ---
 
-# GitHub Desktop for 2026年06月24日 3.6.0 发布说明
-
-**新**
-- Git 工作树支持管理同一仓库的多个工作目录 - [#22102](https://github.com/desktop/desktop/pull/22102)。谢谢。[@devxoul](https://github.com/devxoul)！
-- 解决与 Copilot 的合并冲突 - [#22265](https://github.com/desktop/desktop/pull/22265)
-
-**额外**
-- 允许用户停止使用 Copilot 生成提交消息的正在进行的请求 - [#22324](https://github.com/desktop/desktop/pull/22324)。谢谢。[@say25](https://github.com/say25)！
+# GitHub Desktop for 2026年06月26日 3.6.1 发布说明
 
 **固定的**
-- 当冲突状态失效时，从永久冻结状态恢复冲突对话框，避免用户需要重启应用 - [#22348](https://github.com/desktop/desktop/pull/22348)
-- 修复 Windows 系统上 Warp 终端检测问题，以支持新的 Warp 注册表路径，并回退到旧路径 - [#22264](https://github.com/desktop/desktop/pull/22264)。谢谢。[@Cocodrulo](https://github.com/Cocodrulo)！
-- Windows 系统上的屏幕阅读器可以正确朗读列表中的项目，例如分支和已更改的文件 - [#22219](https://github.com/desktop/desktop/issues/22219)
-- 不再提示为使用非 LFS Git 过滤器的仓库初始化 Git LFS - [#22180](https://github.com/desktop/desktop/pull/22180)。谢谢。[@RonanLB](https://github.com/RonanLB)！
-- 从辅助功能首选项中的示例链接预览中移除误导性的指针光标 - [#22244](https://github.com/desktop/desktop/pull/22244)
+- Copilot Max 计划用户已被正确识别 - [#22400](https://github.com/desktop/desktop/pull/22400)
+- 默认的副驾驶模式是自动
+- 改进了 Copilot 功能的加载速度 - [#22394](https://github.com/desktop/desktop/pull/22394)
+- 在小窗口尺寸下，副驾驶模式选择器不再超出窗口尺寸范围 - [#22391](https://github.com/desktop/desktop/pull/22391)
 
 ---
 
@@ -95,7 +87,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.0 |
 
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.6.0】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.6.1】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
