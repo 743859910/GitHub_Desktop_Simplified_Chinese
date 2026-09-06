@@ -31,9 +31,9 @@ GitHub Desktop 客户端官网下载：| [Linux](https://github.com/shiftkey/des
 
 GitHub Desktop 客户端Releases下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.5.0 - 3.6.4 | 
+GitHub Desktop 版本：| 3.5.0 - 3.6.5 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.4 | 
+GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.5 | 
 
 ---
 
@@ -43,11 +43,17 @@ GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.4 |
 
 ---
 
-# GitHub Desktop for 2026年08月14日 3.6.4 发布说明
+# GitHub Desktop for 2026年09月04日 3.6.5 发布说明
+
+**固定的**
+- 检测通过新的 Windows 安装程序安装的 RStudio，该安装程序会按用户或在 64 位计算机范围的位置注册卸载条目 - [#22774](https://github.com/desktop/desktop/pull/22774)
+- 修复图像差异“差值”模式中由亚像素错位引起的绿色伪影问题 - [#21535](https://github.com/desktop/desktop/pull/21535)。谢谢。[@jackfreem](https://github.com/jackfreem)！
+- 在取消变基操作后，重新启用存储库菜单项（本地更改已覆盖对话框） - [#22536](https://github.com/desktop/desktop/pull/22536)。谢谢。[@iamarjunsuresh](https://github.com/iamarjunsuresh)！
+- 当 GitHub API 请求失败时，保留现有的分支保护信息 - [#22655](https://github.com/desktop/desktop/pull/22655)。谢谢。[@agisilaos](https://github.com/agisilaos)！
+- 在 Windows 系统上，通过标准输入 (stdin) 获取输入的钩子不再报错 - [#22620](https://github.com/desktop/desktop/issues/22620)
 
 **改进**
-- 将 Git for Windows 更新至 v2.53.0.windows.4
-- 将 Git 凭证管理器更新至 2.9.0 版本
+- 防止从 macOS 12 及更早版本升级，因为即将发布的 Electron 更新将不再支持该版本 - [#22800](https://github.com/desktop/desktop/pull/22800)
 
 ---
 
@@ -85,7 +91,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.4 |
 
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.6.4】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.6.5】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
