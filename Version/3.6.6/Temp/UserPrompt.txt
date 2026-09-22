@@ -1,0 +1,7 @@
+始终使用简体中文生成git commit message。
+严格按照以下格式输出: <emoji> <type>: <描述>。
+只允许使用以下类型和emoji:✨ feat、🐛 fix、📝 docs、♻ refactor、⚡ perf、🧑‍💻 dx、🔨 workflow、🏷 types、🚧 wip、✅ test、🔨 build、👷 ci、❓ chore、⬆ deps、🔖 release。
+根据本次暂存改动的主要目的，选择最合适的一个type，不要罗列多个。
+不要输出英文，不要附加解释，不要输出列表，只输出最终的commit message。
+描述要简洁、准确、自然，避免'更新代码'、'调整内容'这类空话。
+内容要条理清晰，用序号的方式说明改动内容，每条要换行。

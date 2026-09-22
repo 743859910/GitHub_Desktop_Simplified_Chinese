@@ -1,0 +1,100 @@
+&File>*.*<文件>*.*<菜单-文件>*.*<main.js
+New &repository…>*.*<新建存储库>*.*<菜单-文件>*.*<main.js
+Add &local repository…>*.*<添加存储库>*.*<菜单-文件>*.*<main.js
+Clo&ne repository…>*.*<克隆存储库>*.*<菜单-文件>*.*<main.js
+&Options…>*.*<选项>*.*<菜单-文件>*.*<main.js
+E&xit>*.*<退出>*.*<菜单-文件>*.*<main.js
+&Edit>*.*<编辑>*.*<菜单-编辑>*.*<main.js
+&Undo>*.*<撤消>*.*<菜单-编辑>*.*<main.js
+&Redo>*.*<恢复>*.*<菜单-编辑>*.*<main.js
+Cu&t>*.*<剪切>*.*<菜单-编辑>*.*<main.js
+&Copy>*.*<复制>*.*<菜单-编辑>*.*<main.js
+&Paste>*.*<粘贴>*.*<菜单-编辑>*.*<main.js
+Select &all>*.*<全选>*.*<菜单-编辑>*.*<main.js
+&Find>*.*<查找>*.*<菜单-编辑>*.*<main.js
+&View">*.*<视图>*.*<菜单-视图>*.*<main.js
+&Changes>*.*<更改>*.*<菜单-视图>*.*<main.js
+&History>*.*<历史>*.*<菜单-视图>*.*<main.js
+Repository &list>*.*<存储库列表>*.*<菜单-视图>*.*<main.js
+&Branches list>*.*<分支列表>*.*<菜单-视图>*.*<main.js
+Go to &Summary>*.*<填写摘要>*.*<菜单-视图>*.*<main.js
+H&ide stashed changes>*.*<隐藏暂存更改>*.*<菜单-视图>*.*<main.js
+Sho&w stashed changes>*.*<显示暂存更改>*.*<菜单-视图>*.*<main.js
+Toggle &full screen>*.*<全屏>*.*<菜单-视图>*.*<main.js
+Reset zoom>*.*<重置缩放>*.*<菜单-视图>*.*<main.js
+Zoom in>*.*<放大>*.*<菜单-视图>*.*<main.js
+Zoom out>*.*<缩小>*.*<菜单-视图>*.*<main.js
+&Reload>*.*<重新加载>*.*<菜单-视图>*.*<main.js
+&Toggle developer tools>*.*<开发者工具>*.*<菜单-视图>*.*<main.js
+&Repository>*.*<存储库>*.*<菜单-仓库>*.*<main.js
+Force P&ush…>*.*<强制推送…>*.*<菜单-仓库>*.*<main.js
+Force P&ush>*.*<强制推送>*.*<菜单-仓库>*.*<main.js
+P&ush>*.*<推送>*.*<菜单-仓库>*.*<main.js
+Pu&ll>*.*<拉取>*.*<菜单-仓库>*.*<main.js
+&Remove…>*.*<删除>*.*<菜单-仓库>*.*<main.js
+&View on GitHub>*.*<在GitHub上查看>*.*<菜单-仓库>*.*<main.js
+Command Prompt>*.*<}中打开>*.*<菜单-仓库>*.*<main.js
+Show in E&xplorer>*.*<在资源管理器中显示>*.*<菜单-仓库>*.*<main.js
+external editor>*.*<}中打开>*.*<菜单-仓库>*.*<main.js
+Create &issue on GitHub>*.*<在GitHub上创建问题(issue)>*.*<菜单-仓库>*.*<main.js
+Repository &settings…>*.*<存储库设置>*.*<菜单-仓库>*.*<main.js
+&Branch>*.*<分支>*.*<菜单-分支>*.*<main.js
+New &branch…>*.*<新建>*.*<菜单-分支>*.*<main.js
+&Rename…>*.*<重命名>*.*<菜单-分支>*.*<main.js
+&Delete…>*.*<删除>*.*<菜单-分支>*.*<main.js
+Discard all changes…>*.*<放弃所有更改>*.*<菜单-分支>*.*<main.js
+&Stash all changes…>*.*<暂存所有更改(stash)>*.*<菜单-分支>*.*<main.js
+&Stash all changes>*.*<暂存所有更改(stash)>*.*<菜单-分支>*.*<main.js
+&Update from ${a}>*.*<从${a}更新>*.*<菜单-分支>*.*<main.js
+&Compare to branch>*.*<与其他分支比较>*.*<菜单-分支>*.*<main.js
+&Merge into current branch…>*.*<合并到当前分支>*.*<菜单-分支>*.*<main.js
+Squas&h and merge into current branch…>*.*<压缩合并到当前分支>*.*<菜单-分支>*.*<main.js
+R&ebase current branch…>*.*<变基当前分支(Rebase)>*.*<菜单-分支>*.*<main.js
+Compare on &GitHub>*.*<在GitHub上比较>*.*<菜单-分支>*.*<main.js
+View branch on GitHub>*.*<在GitHub上查看>*.*<菜单-分支>*.*<main.js
+View &pull request on GitHub>*.*<在 GitHub 上查看Pull(拉取)请求>*.*<菜单-分支>*.*<main.js
+Create &pull request>*.*<创建拉取(Pull)请求>*.*<菜单-分支>*.*<main.js
+&Help>*.*<帮助>*.*<菜单-帮助>*.*<main.js
+Report issue…>*.*<问题反馈>*.*<菜单-帮助>*.*<main.js
+&Contact GitHub support…>*.*<联系GitHub支持>*.*<菜单-帮助>*.*<main.js
+Show User Guides>*.*<用户指南>*.*<菜单-帮助>*.*<main.js
+Show keyboard shortcuts>*.*<键盘快捷键>*.*<菜单-帮助>*.*<main.js
+S&how logs in Explorer>*.*<日志>*.*<菜单-帮助>*.*<main.js
+Failed opening logs directory>*.*<无法打开日志目录>*.*<菜单-帮助>*.*<main.js
+&About GitHub Desktop>*.*<关于>*.*<菜单-帮助>*.*<main.js
+&Fetch>*.*<同步>*.*<菜单-仓库>*.*<main.js
+Let's get started!>*.*<让我们一起摇摆！🥳🥳🥳>*.*<开始页>*.*<renderer.js
+Add a repository to GitHub Desktop to start collaborating>*.*<用GitHub Desktop协作开发>*.*<开始页>*.*<renderer.js
+Clone a repository from the Internet…>*.*<克隆存储库...>*.*<开始页>*.*<renderer.js
+Create a New Repository on your hard drive…>*.*<创建存储库...>*.*<开始页>*.*<renderer.js
+Add an Existing Repository from your hard drive…>*.*<打开存储库...>*.*<开始页>*.*<renderer.js
+ProTip!">*.*<提示：>*.*<开始页>*.*<renderer.js
+ You can drag & drop an existing repository folder here to add it to Desktop>*.*<您可以将本地的存储库文件夹拖放到此处进行添加>*.*<开始页>*.*<renderer.js
+Clone a repository>*.*<克隆仓库>*.*<待分组>*.*<renderer.js
+"Sign in";>*.*<登录>*.*<待分组>*.*<renderer.js
+Sign in to your GitHub.com account to access your repositories.>*.*<登录您的GitHub.com帐户访问您的存储库。>*.*<待分组>*.*<renderer.js
+Your new branch will be based on the commit '>*.*<您的新分支将基于提交 '>*.*<待分组>*.*<renderer.js
+from your repository.>*.*<从您的存储库。>*.*<待分组>*.*<renderer.js
+You do not currently have any branch checked out (your HEAD reference is detached). As such your new branch will be based on your currently checked out commit>*.*<您当前没有签出任何分支（您的头引用已分离). 因此，您的新分支将基于您当前签出的提交>*.*<待分组>*.*<renderer.js
+Your current branch is unborn (does not contain any commits). Creating a new branch will rename the current branch.>*.*<当前分支未绑定（不包含任何提交）。创建新分支将重命名当前分支。>*.*<待分组>*.*<renderer.js
+A branch named>*.*<分支名为>*.*<待分组>*.*<renderer.js
+already exists`>*.*<已存在`>*.*<待分组>*.*<renderer.js
+already exists on the remote.>*.*<已存在于远程>*.*<待分组>*.*<renderer.js
+URL or username/repository>*.*<URL 或用户名/存储库名>*.*<待分组>*.*<renderer.js
+Repository URL or GitHub username and repository>*.*<存储库URL或GitHub用户名和存储库>*.*<待分组>*.*<renderer.js
+Local path>*.*<本地路径>*.*<待分组>*.*<renderer.js
+repository path>*.*<存储库路径>*.*<待分组>*.*<renderer.js
+"Choose…">*.*<选择…>*.*<待分组>*.*<renderer.js
+Filter your repositories>*.*<筛选存储库>*.*<待分组>*.*<renderer.js
+Your repositories>*.*<您的存储库>*.*<待分组>*.*<renderer.js
+Refresh the list of repositories>*.*<刷新存储库列表>*.*<待分组>*.*<renderer.js
+Looks like there are no repositories for>*.*<没有仓库>*.*<待分组>*.*<renderer.js
+Refresh this list>*.*<刷新此列表>*.*<待分组>*.*<renderer.js
+Loading repositories from ${n}…>*.*<从 ${n} 加载存储库…>*.*<待分组>*.*<renderer.js
+if you've created a repository recently.>*.*<如果您最近创建了存储库。>*.*<待分组>*.*<renderer.js
+Create a new repository>*.*<新建存储库>*.*<待分组>*.*<renderer.js
+Initialize this repository with a README>*.*<添加README文件>*.*<待分组>*.*<renderer.js
+Add local repository>*.*<添加本地存储库>*.*<待分组>*.*<renderer.js
+Add repository>*.*<添加存储库>*.*<待分组>*.*<renderer.js
+||"Cancel">*.*<取消>*.*<待分组>*.*<renderer.js
+Current repository>*.*<当前存储库>*.*<待分组>*.*<renderer.js

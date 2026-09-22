@@ -1,0 +1,426 @@
+&File>*.*<檔案>*.*<選單－檔案>*.*<main.js
+New &repository…>*.*<新增儲存庫>*.*<選單－檔案>*.*<main.js
+Add &local repository…>*.*<新增本機儲存庫>*.*<選單－檔案>*.*<main.js
+Clo&ne repository…>*.*<複製儲存庫>*.*<選單－檔案>*.*<main.js
+&Options…>*.*<選項>*.*<選單－檔案>*.*<main.js
+E&xit>*.*<結束>*.*<選單－檔案>*.*<main.js
+&Edit>*.*<編輯>*.*<選單－編輯>*.*<main.js
+&Undo>*.*<復原>*.*<選單－編輯>*.*<main.js
+&Redo>*.*<重做>*.*<選單－編輯>*.*<main.js
+Cu&t>*.*<剪下>*.*<選單－編輯>*.*<main.js
+&Copy>*.*<複製>*.*<選單－編輯>*.*<main.js
+&Paste>*.*<貼上>*.*<選單－編輯>*.*<main.js
+Select &all>*.*<全選>*.*<選單－編輯>*.*<main.js
+&Find>*.*<尋找>*.*<選單－編輯>*.*<main.js
+label:"&View",submenu>*.*<label:"檢視",submenu>*.*<選單－檢視>*.*<main.js
+&Changes>*.*<變更>*.*<選單－檢視>*.*<main.js
+&History>*.*<歷史>*.*<選單－檢視>*.*<main.js
+Repository &list>*.*<儲存庫清單>*.*<選單－檢視>*.*<main.js
+&Branches list>*.*<分支清單>*.*<選單－檢視>*.*<main.js
+Go to &Summary>*.*<前往摘要>*.*<選單－檢視>*.*<main.js
+H&ide stashed changes>*.*<隱藏暫存的變更>*.*<選單－檢視>*.*<main.js
+Sho&w stashed changes>*.*<顯示暫存的變更>*.*<選單－檢視>*.*<main.js
+Toggle &full screen>*.*<全螢幕>*.*<選單－檢視>*.*<main.js
+Reset zoom>*.*<重設縮放>*.*<選單－檢視>*.*<main.js
+Zoom in>*.*<放大>*.*<選單－檢視>*.*<main.js
+Zoom out>*.*<縮小>*.*<選單－檢視>*.*<main.js
+&Reload>*.*<重新載入>*.*<選單－檢視>*.*<main.js
+&Toggle developer tools>*.*<開發者工具>*.*<選單－檢視>*.*<main.js
+&Repository>*.*<儲存庫>*.*<選單－儲存庫>*.*<main.js
+Force P&ush…>*.*<強制推送…>*.*<選單－儲存庫>*.*<main.js
+Force P&ush>*.*<強制推送>*.*<選單－儲存庫>*.*<main.js
+P&ush>*.*<推送>*.*<選單－儲存庫>*.*<main.js
+Pu&ll>*.*<拉取>*.*<選單－儲存庫>*.*<main.js
+&Remove…>*.*<移除…>*.*<選單－儲存庫>*.*<main.js
+&View on GitHub>*.*<在 GitHub 上檢視>*.*<選單－儲存庫>*.*<main.js
+O&pen in ${t??"shell"}>*.*<在 ${t??"shell"} 中開啟>*.*<選單－儲存庫>*.*<main.js
+Show in E&xplorer>*.*<在檔案總管中顯示>*.*<選單－儲存庫>*.*<main.js
+&Open in ${e??"external editor"}>*.*<在 ${e??"external editor"} 中開啟>*.*<選單－儲存庫>*.*<main.js
+Create &issue on GitHub>*.*<在 GitHub 上建立議題>*.*<選單－儲存庫>*.*<main.js
+Repository &settings…>*.*<儲存庫設定>*.*<選單－儲存庫>*.*<main.js
+&Branch>*.*<分支>*.*<選單－分支>*.*<main.js
+New &branch…>*.*<新增分支…>*.*<選單－分支>*.*<main.js
+&Rename…>*.*<重新命名…>*.*<選單－分支>*.*<main.js
+&Delete…>*.*<刪除…>*.*<選單－分支>*.*<main.js
+Discard all changes…>*.*<捨棄所有變更>*.*<選單－分支>*.*<main.js
+&Stash all changes…>*.*<暫存所有變更（Stash）>*.*<選單－分支>*.*<main.js
+&Stash all changes>*.*<暫存所有變更（Stash）>*.*<選單－分支>*.*<main.js
+&Update from ${a}>*.*<從 ${a} 更新>*.*<選單－分支>*.*<main.js
+&Compare to branch>*.*<與其他分支比較>*.*<選單－分支>*.*<main.js
+&Merge into current branch…>*.*<合併至目前分支>*.*<選單－分支>*.*<main.js
+Squas&h and merge into current branch…>*.*<壓縮合併至目前分支>*.*<選單－分支>*.*<main.js
+R&ebase current branch…>*.*<將目前分支重新定基底（Rebase）>*.*<選單－分支>*.*<main.js
+Compare on &GitHub>*.*<在 GitHub 上比較>*.*<選單－分支>*.*<main.js
+View branch on GitHub>*.*<在 GitHub 上檢視分支>*.*<選單－分支>*.*<main.js
+View &pull request on GitHub>*.*<在 GitHub 上檢視拉取要求>*.*<選單－分支>*.*<main.js
+Create &pull request>*.*<建立拉取要求>*.*<選單－分支>*.*<main.js
+&Help>*.*<說明>*.*<選單－說明>*.*<main.js
+Report issue…>*.*<回報問題>*.*<選單－說明>*.*<main.js
+&Contact GitHub support…>*.*<聯絡 GitHub 支援>*.*<選單－說明>*.*<main.js
+Show User Guides>*.*<使用者指南>*.*<選單－說明>*.*<main.js
+Show keyboard shortcuts>*.*<鍵盤快速鍵>*.*<選單－說明>*.*<main.js
+S&how logs in Explorer>*.*<在檔案總管中顯示記錄>*.*<選單－說明>*.*<main.js
+Failed opening logs directory>*.*<無法開啟記錄目錄>*.*<選單－說明>*.*<main.js
+&About GitHub Desktop>*.*<關於 GitHub Desktop>*.*<選單－說明>*.*<main.js
+&Fetch>*.*<擷取>*.*<選單－儲存庫>*.*<main.js
+Let's get started!>*.*<歡迎開始使用>*.*<開始頁面>*.*<renderer.js
+Add a repository to GitHub Desktop to start collaborating>*.*<新增儲存庫至 GitHub Desktop，開始與他人協作>*.*<開始頁面>*.*<renderer.js
+Clone a repository from the Internet…>*.*<從網際網路複製儲存庫…>*.*<開始頁面>*.*<renderer.js
+Create a New Repository on your local drive…>*.*<在本機新增儲存庫…>*.*<開始頁面>*.*<renderer.js
+Add an Existing Repository from your local drive…>*.*<開啟本機現有儲存庫…>*.*<開始頁面>*.*<renderer.js
+Create a tutorial repository…>*.*<建立教學儲存庫…>*.*<開始頁面>*.*<renderer.js
+onClick:this.onCloneSelectedRepository},"Clone"," ",_e.createElement("strong",null,e.owner.login>*.*<onClick:this.onCloneSelectedRepository},"複製"," ",_e.createElement("strong",null,e.owner.login>*.*<開始頁面>*.*<renderer.js
+null,"ProTip!">*.*<null,"提示：">*.*<開始頁面>*.*<renderer.js
+ProTip! Press>*.*<提示：>*.*<開始頁面>*.*<renderer.js
+ You can drag & drop an existing repository folder here to add it to Desktop>*.*<您可將本機儲存庫資料夾拖曳至此，以新增至 Desktop>*.*<開始頁面>*.*<renderer.js
+Clone a repository>*.*<複製儲存庫>*.*<待分組>*.*<renderer.js
+"Sign in";>*.*<"登入";>*.*<待分組>*.*<renderer.js
+Sign in to your GitHub.com account to access your repositories.>*.*<登入您的 GitHub.com 帳戶以存取儲存庫。>*.*<待分組>*.*<renderer.js
+Your new branch will be based on the commit '>*.*<您的新分支將以提交 '>*.*<待分組>*.*<renderer.js
+from your repository.>*.*<' 為基礎，來自您的儲存庫。>*.*<待分組>*.*<renderer.js
+You do not currently have any branch checked out (your HEAD reference is detached). As such your new branch will be based on your currently checked out commit>*.*<您目前尚未簽出任何分支（HEAD 參照處於分離狀態）。因此，您的新分支將以目前簽出的提交為基礎。>*.*<待分組>*.*<renderer.js
+Your current branch is unborn (does not contain any commits). Creating a new branch will rename the current branch.>*.*<您目前分支尚無任何提交（空分支）。建立新分支將重新命名目前分支。>*.*<待分組>*.*<renderer.js
+A branch named ${e} already exists.>*.*<名為「${e}」的分支已存在。>*.*<待分組>*.*<renderer.js
+URL or username/repository>*.*<URL 或使用者名稱／儲存庫>*.*<待分組>*.*<renderer.js
+Repository URL or GitHub username and repository>*.*<儲存庫 URL，或 GitHub 使用者名稱與儲存庫>*.*<待分組>*.*<renderer.js
+Local path>*.*<本機路徑>*.*<待分組>*.*<renderer.js
+repository path>*.*<儲存庫路徑>*.*<待分組>*.*<renderer.js
+Choose…>*.*<選擇…>*.*<待分組>*.*<renderer.js
+Filter your repositories>*.*<篩選儲存庫>*.*<待分組>*.*<renderer.js
+Your repositories>*.*<您的儲存庫>*.*<待分組>*.*<renderer.js
+Refresh the list of repositories>*.*<重新整理儲存庫清單>*.*<待分組>*.*<renderer.js
+Looks like there are no repositories for>*.*<目前沒有任何儲存庫>*.*<待分組>*.*<renderer.js
+Refresh this list>*.*<重新整理此清單>*.*<待分組>*.*<renderer.js
+Loading repositories from ${n.friendlyEndpoint}…>*.*<正在從 ${n.friendlyEndpoint} 載入儲存庫…>*.*<待分組>*.*<renderer.js
+if you've created a repository recently.>*.*<若您最近才新增儲存庫。>*.*<待分組>*.*<renderer.js
+Create a new repository>*.*<新增儲存庫>*.*<待分組>*.*<renderer.js
+Initialize this repository with a README>*.*<為此儲存庫建立 README>*.*<待分組>*.*<renderer.js
+Add local repository>*.*<新增本機儲存庫>*.*<待分組>*.*<renderer.js
+Add repository>*.*<新增儲存庫>*.*<待分組>*.*<renderer.js
+||"Cancel")>*.*<||"取消")>*.*<待分組>*.*<renderer.js
+Current repository>*.*<目前儲存庫>*.*<待分組>*.*<renderer.js
+Do not show this message again>*.*<不要再顯示此訊息>*.*<介面補齊>*.*<renderer.js
+Sorry, I can't find that branch>*.*<抱歉，找不到該分支>*.*<介面補齊>*.*<renderer.js
+The commits from the selected branch will be added to the current branch via a merge commit.>*.*<所選分支的提交將透過合併提交加入目前分支。>*.*<介面補齊>*.*<renderer.js
+The commits in the selected branch will be combined into one commit in the current branch.>*.*<所選分支的所有提交將合併為單一提交後加入目前分支。>*.*<介面補齊>*.*<renderer.js
+The commits from the selected branch will be rebased and added to the current branch.>*.*<所選分支的提交將重新定基底（rebase）後加入目前分支。>*.*<介面補齊>*.*<renderer.js
+Unable to start rebase. Check you have chosen a valid branch.>*.*<無法開始重新定基底。請確認您已選擇有效的分支。>*.*<介面補齊>*.*<renderer.js
+Unable to merge unrelated histories in this repository>*.*<無法合併此儲存庫中不相關的歷史記錄>*.*<介面補齊>*.*<renderer.js
+Unable to merge unrelated histories in this repository.>*.*<無法合併此儲存庫中不相關的歷史記錄。>*.*<介面補齊>*.*<renderer.js
+This action cannot be undone.>*.*<此動作無法復原。>*.*<介面補齊>*.*<renderer.js
+Sign in to your GitHub Enterprise>*.*<登入您的 GitHub Enterprise>*.*<介面補齊>*.*<renderer.js
+This operating system is no longer supported. Software updates have been disabled.>*.*<不再支援此作業系統，已停用軟體更新。>*.*<介面補齊>*.*<renderer.js
+Unable to read path on disk. Please check the path and try again.>*.*<無法讀取磁碟路徑。請確認路徑是否正確後再試。>*.*<介面補齊>*.*<renderer.js
+Could not determine the default branch.>*.*<無法判斷預設分支。>*.*<介面補齊>*.*<renderer.js
+The currently checked out branch. Pick this if you need to build on work done on this branch.>*.*<目前簽出的分支。若要延續此分支上的工作，請選擇此項。>*.*<介面補齊>*.*<renderer.js
+Do you want to continue anyway?>*.*<仍要繼續嗎？>*.*<介面補齊>*.*<renderer.js
+The current branch is unborn.>*.*<目前分支尚無任何提交（空分支）。>*.*<介面補齊>*.*<renderer.js
+The current repository is in a detached HEAD state.>*.*<此儲存庫目前處於分離 HEAD 狀態。>*.*<介面補齊>*.*<renderer.js
+GitHub Desktop is a seamless way to contribute to projects on GitHub and GitHub Enterprise. Sign in below to get started with your existing projects.>*.*<GitHub Desktop 讓您能順暢地為 GitHub 與 GitHub Enterprise 上的專案做出貢獻。請於下方登入，以存取您既有的專案。>*.*<介面補齊>*.*<renderer.js
+If you are using GitHub Enterprise at work, sign in to it to get access to your repositories.>*.*<若您在公司使用 GitHub Enterprise，請登入以存取您的儲存庫。>*.*<介面補齊>*.*<renderer.js
+We couldn't find that repository. Check that you are logged in, the network is accessible, and the URL or repository alias are spelled correctly.>*.*<找不到該儲存庫。請確認您已登入、網路可連線，且 URL 或儲存庫別名拼寫正確。>*.*<介面補齊>*.*<renderer.js
+Your browser will redirect you back to GitHub Desktop once you've signed in. If your browser asks for your permission to launch GitHub Desktop, please allow it.>*.*<登入完成後，瀏覽器會將您導回 GitHub Desktop。若瀏覽器詢問是否允許啟動 GitHub Desktop，請選擇允許。>*.*<介面補齊>*.*<renderer.js
+Sign in using your browser>*.*<使用瀏覽器登入>*.*<介面補齊－登入>*.*<renderer.js
+Continue with browser>*.*<使用瀏覽器繼續>*.*<介面補齊－登入>*.*<renderer.js
+Continue in browser>*.*<在瀏覽器中繼續>*.*<介面補齊－登入>*.*<renderer.js
+Enterprise or AE address>*.*<企業或 AE 伺服器位址>*.*<介面補齊－登入>*.*<renderer.js
+Enterprise address>*.*<企業伺服器位址>*.*<介面補齊－登入>*.*<renderer.js
+t="Continue">*.*<t="繼續">*.*<介面補齊－登入>*.*<renderer.js
+null," Continue">*.*<null," 繼續">*.*<介面補齊－登入>*.*<renderer.js
+Failed retrieving authenticated user>*.*<無法取得已驗證的使用者資訊>*.*<介面補齊－登入>*.*<renderer.js
+Your browser will redirect you back to GitHub Desktop once you've signed in. If your browser asks for your permission to launch GitHub Desktop please allow it to.>*.*<登入完成後，瀏覽器會將您導回 GitHub Desktop。若瀏覽器詢問是否允許啟動 GitHub Desktop，請允許該操作。>*.*<介面補齊>*.*<renderer.js
+This diff contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.>*.*<此差異含有雙向 Unicode 文字，解讀或編譯結果可能與畫面顯示不同。若要檢閱，請在可顯示隱藏 Unicode 字元的編輯器中開啟檔案。>*.*<介面補齊>*.*<renderer.js
+Unable to switch branches as there are working directory changes which would be overwritten. Please commit or stash your changes.>*.*<工作目錄有變更且可能被覆寫，無法切換分支。請先提交或暫存（stash）您的變更。>*.*<介面補齊>*.*<renderer.js
+GitHub Desktop was not able to check for updates due to a timeout. Ensure you have internet connectivity and try again.>*.*<檢查更新逾時，GitHub Desktop 無法完成更新檢查。請確認網路連線後再試。>*.*<介面補齊>*.*<renderer.js
+The push operation includes a file which exceeds GitHub's file size restriction of 100MB. Please remove the file from history and try again.>*.*<此次推送含有超過 GitHub 100MB 大小限制的檔案。請從歷史記錄中移除該檔案後再試。>*.*<介面補齊>*.*<renderer.js
+This repository is currently only available on your local machine. By publishing it on GitHub you can share it, and collaborate with others.>*.*<此儲存庫目前僅存在於您的電腦。發佈到 GitHub 後即可與他人分享並協作。>*.*<介面補齊>*.*<renderer.js
+This branch is protected and any changes requires an approved review. Open a pull request with changes targeting this branch instead.>*.*<此分支受保護，變更須經核准審查。請改為建立以本分支為目標的拉取要求。>*.*<介面補齊>*.*<renderer.js
+The branch name cannot be a 40-character string of hexadecimal characters, as this is the format that Git uses for representing objects.>*.*<分支名稱不可為 40 個字元的十六進位字串，因為 Git 用此格式表示物件。>*.*<介面補齊>*.*<renderer.js
+Checking out a commit will create a detached HEAD, and you will no longer be on any branch. Are you sure you want to checkout this commit?>*.*<簽出此提交會進入分離 HEAD 狀態，且不再位於任何分支上。確定要簽出此提交嗎？>*.*<介面補齊>*.*<renderer.js
+You have changes in progress. Undoing the commit might result in some of these changes being lost. Do you want to continue anyway?>*.*<您有尚未完成的變更。復原提交可能導致部分變更遺失。仍要繼續嗎？>*.*<介面補齊>*.*<renderer.js
+You have changes in progress. Resetting to a previous commit might result in some of these changes being lost. Do you want to continue anyway?>*.*<您有尚未完成的變更。重設到先前提交可能導致部分變更遺失。仍要繼續嗎？>*.*<介面補齊>*.*<renderer.js
+Depending on your repository's hosting service, you might need to use a Personal Access Token (PAT) as your password. Learn more about creating a PAT in our>*.*<視您的儲存庫託管服務而定，您可能需要將個人存取權杖（PAT）當作密碼。如需建立 PAT 的詳細說明，請參閱我們的>*.*<介面補齊>*.*<renderer.js
+When enabled, GitHub Desktop will underline links in commit messages, comments, and other text fields. This can help make links easier to distinguish. >*.*<啟用後，GitHub Desktop 會在提交訊息、留言與其他文字欄位為連結加上底線，較容易辨識連結。>*.*<介面補齊>*.*<renderer.js
+When enabled, check marks will be displayed along side the line numbers and groups of line numbers in the diff when committing. When disabled, the line number controls will be less prominent.>*.*<啟用後，提交時在差異中會於行號旁顯示勾選標記與行號群組。關閉時行號控制項會較不醒目。>*.*<介面補齊>*.*<renderer.js
+These icons indicate which repositories have local or remote changes, and require the periodic fetching of repositories that are not currently selected.>*.*<這些圖示表示哪些儲存庫有本機或遠端變更，並需要定期擷取目前未選取之儲存庫。>*.*<介面補齊>*.*<renderer.js
+Turning this off will not stop the periodic fetching of your currently selected repository, but may improve overall app performance for users with many repositories.>*.*<關閉此選項不會停止擷取目前選取之儲存庫，但可能改善擁有大量儲存庫時的整體效能。>*.*<介面補齊>*.*<renderer.js
+When enabled, GitHub Desktop will attempt to load environment variables from your shell when executing Git hooks. This is useful if your Git hooks depend on environment variables set in your shell configuration files, a common practive for version managers such as nvm, rbenv, asdf, etc.>*.*<啟用後，執行 Git 掛鉤時，GitHub Desktop 會嘗試從您的 shell 載入環境變數。若掛鉤依賴於 shell 設定檔中的環境變數（例如 nvm、rbenv、asdf 等版本管理工具常見做法），此功能會很有用。>*.*<介面補齊>*.*<renderer.js
+Cache hook environment variables to improve performance. Disable if your hooks rely on frequently changing environment variables.>*.*<快取掛鉤環境變數以提升效能。若掛鉤依賴經常變動的環境變數，請關閉此選項。>*.*<介面補齊>*.*<renderer.js
+Great commit summaries contain fewer than 50 characters. Place extra information in the description field.>*.*<良好的提交摘要應少於 50 個字元，其餘說明請寫在描述欄位。>*.*<介面補齊>*.*<renderer.js
+Place extra information in the description field.>*.*<其餘說明請寫在描述欄位。>*.*<介面補齊>*.*<renderer.js
+Untracked files will be excluded>*.*<未追蹤的檔案將被排除>*.*<介面補齊>*.*<renderer.js
+This binary file has changed.>*.*<此二進位檔案已變更。>*.*<介面補齊>*.*<renderer.js
+A pull request allows you to propose changes to the code. By opening one, you’re requesting that someone review and merge them. Since this is a demo repository, this pull request will be private.>*.*<拉取要求可讓您提出程式碼變更。建立後即表示您希望他人審查並合併。由於這是示範儲存庫，此拉取要求將為私人。>*.*<介面補齊>*.*<renderer.js
+Publishing will “push”, or upload, your commits to this branch of your repository on GitHub. Publish using the third button in the top bar.>*.*<發佈會將您的提交「推送」（上傳）到此儲存庫在 GitHub 上的此分支。請使用頂端列第三個按鈕發佈。>*.*<介面補齊>*.*<renderer.js
+A commit allows you to save sets of changes. In the “summary“ field in the bottom left, write a short message that describes the changes you made. When you’re done, click the blue Commit button to finish.>*.*<提交可儲存一組變更。請在左下角的「摘要」欄位撰寫簡短說明，描述您的變更；完成後點選藍色的提交按鈕。>*.*<介面補齊>*.*<renderer.js
+The default branch of the upstream repository. Pick this to start on something new that's not dependent on your current branch.>*.*<上游儲存庫的預設分支。若要從與目前分支無關的新起點開始，請選擇此項。>*.*<介面補齊>*.*<renderer.js
+The default branch in your repository. Pick this to start on something new that's not dependent on your current branch.>*.*<您儲存庫中的預設分支。若要從與目前分支無關的新起點開始，請選擇此項。>*.*<介面補齊>*.*<renderer.js
+label:"Name",placeholder:"repository name">*.*<label:"名稱",placeholder:"儲存庫名稱">*.*<新增儲存庫對話框>*.*<renderer.js
+label:"Description">*.*<label:"說明">*.*<新增儲存庫對話框>*.*<renderer.js
+label:"Git ignore">*.*<label:"Git 忽略檔">*.*<新增儲存庫對話框>*.*<renderer.js
+label:"License">*.*<label:"授權條款">*.*<新增儲存庫對話框>*.*<renderer.js
+Create repository>*.*<建立儲存庫>*.*<新增儲存庫對話框>*.*<renderer.js
+uU="None">*.*<uU="無">*.*<新增儲存庫對話框>*.*<renderer.js
+pU={name:"None">*.*<pU={name:"無">*.*<新增儲存庫對話框>*.*<renderer.js
+Get started on a brand new project>*.*<從全新專案開始>*.*<新增儲存庫對話框>*.*<renderer.js
+label:"Expand active resizable">*.*<label:"展開使用中可調整區域">*.*<選單－檢視>*.*<main.js
+label:"Contract active resizable">*.*<label:"縮小使用中可調整區域">*.*<選單－檢視>*.*<main.js
+(h?"Hide":"Show")+" Toggle Chan&ges Filter">*.*<(h?"隱藏":"顯示")+" 變更篩選">*.*<選單－檢視>*.*<main.js
+label:"Open &with…">*.*<label:"以其他程式開啟…">*.*<選單－儲存庫>*.*<main.js
+contributionTargetDefaultBranch:a="default branch">*.*<contributionTargetDefaultBranch:a="預設分支">*.*<選單－分支>*.*<main.js
+{label:"Preview pull request",id:"preview-pull-request",accelerator>*.*<{label:"預覽拉取要求",id:"preview-pull-request",accelerator>*.*<選單－分支>*.*<main.js
+Fetch ${t}>*.*<擷取 ${t}>*.*<工具列擷取>*.*<renderer.js
+Fetch ${e}>*.*<擷取 ${e}>*.*<工具列擷取>*.*<renderer.js
+Fetch the latest changes from ${t}>*.*<從 ${t} 擷取最新變更>*.*<工具列擷取>*.*<renderer.js
+Fetching ${t.name}>*.*<擷取 ${t.name}>*.*<工具列擷取>*.*<renderer.js
+Last fetched >*.*<上次擷取於 >*.*<工具列擷取>*.*<renderer.js
+Never fetched>*.*<尚未擷取>*.*<工具列擷取>*.*<renderer.js
+t??"Hang on…">*.*<t??"請稍候…">*.*<工具列狀態>*.*<renderer.js
+n.kind===tt.History?"Select branch to compare…":void 0:"No branches to compare">*.*<n.kind===tt.History?"選擇要比較的分支…":void 0:"沒有可比較的分支">*.*<歷史／比較>*.*<renderer.js
+id:"changes-tab"},_e.createElement("span",null,"Changes"),this.renderChangesBadge()),_e.createElement("div",{className:"with-indicator",id:"history-tab"},_e.createElement("span",null,"History")))}>*.*<id:"changes-tab"},_e.createElement("span",null,"變更"),this.renderChangesBadge()),_e.createElement("div",{className:"with-indicator",id:"history-tab"},_e.createElement("span",null,"歷史")))}>*.*<主工作區>*.*<renderer.js
+{id:"branches-tab"},"Branches"),_e.createElement("span",{id:"pull-requests-tab",className:"pull-request-tab"},"Pull requests">*.*<{id:"branches-tab"},"分支"),_e.createElement("span",{id:"pull-requests-tab",className:"pull-request-tab"},"拉取要求">*.*<分支下拉>*.*<renderer.js
+label:"Clone repository…",action:this.onCloneRepository},{label:"Create new repository…",action:this.onCreateNewRepository},{label:"Add existing repository…",action:this.onAddExistingRepo>*.*<label:"複製儲存庫…",action:this.onCloneRepository},{label:"新增儲存庫…",action:this.onCreateNewRepository},{label:"加入現有儲存庫…",action:this.onAddExistingRepo>*.*<儲存庫清單>*.*<renderer.js
+className:"new-repository-button",onClick:this.onNewRepositoryButtonClick,ariaExpanded:this.state.newRepositoryMenuExpanded,onKeyDown:this.onNewRepositoryButtonKeyDown},"Add",_e.createElement(Ri,{symbol:ah})>*.*<className:"new-repository-button",onClick:this.onNewRepositoryButtonClick,ariaExpanded:this.state.newRepositoryMenuExpanded,onKeyDown:this.onNewRepositoryButtonKeyDown},"新增",_e.createElement(Ri,{symbol:ah})>*.*<儲存庫清單>*.*<renderer.js
+placeholder:this.props.placeholderText||"Filter">*.*<placeholder:this.props.placeholderText||"篩選">*.*<儲存庫清單>*.*<renderer.js
+placeholder:"Filter">*.*<placeholder:"篩選">*.*<主工作區>*.*<renderer.js
+d="Current branch",m=!0,f=!1>*.*<d="目前分支",m=!0,f=!1>*.*<分支下拉>*.*<renderer.js
+`Current branch is ${s.ref}`>*.*<`目前分支為 ${s.ref}`>*.*<分支下拉>*.*<renderer.js
+description:"Current branch dropdown button">*.*<description:"目前分支下拉按鈕">*.*<分支下拉>*.*<renderer.js
+Choose a branch to merge into ${e.name}>*.*<選擇要合併至 ${e.name} 的分支>*.*<分支下拉>*.*<renderer.js
+const e=this.props.changesetData.files.length,t=1===e?"file":"files";return _e.createElement("div",{className:"file-list-header"},e," changed ",t)}>*.*<const e=this.props.changesetData.files.length;return _e.createElement("div",{className:"file-list-header"},`${e} 個已變更檔案`)}>*.*<變更清單>*.*<renderer.js
+You're all set!>*.*<一切就緒！>*.*<拉取要求>*.*<renderer.js
+No open pull requests in >*.*<沒有已開啟的拉取要求於 >*.*<拉取要求>*.*<renderer.js
+Loading pull requests as fast as I can!>*.*<正在盡快載入拉取要求！>*.*<拉取要求>*.*<renderer.js
+Hang Tight. Loading pull requests as fast as I can!>*.*<請稍候，正在盡快載入拉取要求！>*.*<拉取要求>*.*<renderer.js
+_e.createElement("div",{className:"call-to-action"},"Would you like to"," ",_e.createElement(lT,{onClick:this.props.onCreateBranch},"create a new branch")," ","and get going on your next project?")>*.*<_e.createElement("div",{className:"call-to-action"},"您是否想要"," ",_e.createElement(lT,{onClick:this.props.onCreateBranch},"建立新分支")," ","著手進行下一個專案？")>*.*<拉取要求>*.*<renderer.js
+_e.createElement("div",{className:"call-to-action"},"Would you like to"," ",_e.createElement(lT,{onClick:this.props.onCreatePullRequest},"create a pull request")," ","from the current branch?")>*.*<_e.createElement("div",{className:"call-to-action"},"您是否想要"," ",_e.createElement(lT,{onClick:this.props.onCreatePullRequest},"建立拉取要求")," ","從目前分支？")>*.*<拉取要求>*.*<renderer.js
+"Refreshing repository">*.*<"正在重新整理儲存庫">*.*<進度列>*.*<renderer.js
+e.description||"Hang on…">*.*<e.description||"請稍候…">*.*<進度列>*.*<renderer.js
+_e.createElement("label",{htmlFor:"commit-message-description"},"Description"),_e.createElement(Sp,{className:"description-focus-container">*.*<_e.createElement("label",{htmlFor:"commit-message-description"},"說明"),_e.createElement(Sp,{className:"description-focus-container">*.*<提交區>*.*<renderer.js
+showInputLabels?"Commit description":void 0,placeholder:"Description",value:this.state.commitMessage.description>*.*<showInputLabels?"提交說明":void 0,placeholder:"說明",value:this.state.commitMessage.description>*.*<提交區>*.*<renderer.js
+getGroupLabel(e){return"default"===e?"Default branch":"recent"===e?"Recent branches":"other"===e?"Other branches":at(0,`Unknown identifier: ${e}`)}onRenderNoItems=()=>_e.createElement(OL,{onCreateNewBranch:this.onCreateNewBranch,canCreateNewBranch:this.props.canCreateNewBranch,noBranchesMessage:this.props.noBranchesMessage});>*.*<getGroupLabel(e){return"default"===e?"預設分支":"recent"===e?"最近的分支":"other"===e?"其他分支":at(0,`Unknown identifier: ${e}`)}onRenderNoItems=()=>_e.createElement(OL,{onCreateNewBranch:this.onCreateNewBranch,canCreateNewBranch:this.props.canCreateNewBranch,noBranchesMessage:this.props.noBranchesMessage});>*.*<分支下拉>*.*<renderer.js
+"New branch">*.*<"新分支">*.*<分支下拉>*.*<renderer.js
+No local changes"),_e.createElement("p",null,"There are no uncommitted changes in this repository. Here are some friendly suggestions for what to do next."))>*.*<沒有本機變更"),_e.createElement("p",null,"此儲存庫沒有未提交的變更。以下是一些可嘗試的下一步建議。"))>*.*<主工作區>*.*<renderer.js
+Select your editor in"," ",_e.createElement(lT,{onClick:this.openIntegrationPreferences},"Options"));return this.renderMenuBackedAction(e,"Open the repository in your external editor">*.*<請至"," ",_e.createElement(lT,{onClick:this.openIntegrationPreferences},"選項"));return this.renderMenuBackedAction(e,"在外部編輯器中開啟儲存庫">*.*<主工作區>*.*<renderer.js
+View the files of your repository in ${e}>*.*<在 ${e} 中檢視儲存庫檔案>*.*<主工作區>*.*<renderer.js
+Open the repository page on GitHub in your browser">*.*<在瀏覽器中開啟 GitHub 上的儲存庫頁面">*.*<主工作區>*.*<renderer.js
+," menu or"," ",>*.*<," 選單，或 "," ",>*.*<主工作區>*.*<renderer.js
+return null!==t?e?"Amending":"Amend":e?"Committing":"Commit"}getCommittingButtonText(){const{branch:e}>*.*<return null!==t?e?"修改提交中":"修改提交":e?"提交中":"提交"}getCommittingButtonText(){const{branch:e}>*.*<提交按鈕>*.*<renderer.js
+${t} ${this.getFilesToBeCommittedButtonText()}to `>*.*<${t} ${this.getFilesToBeCommittedButtonText()}至 `>*.*<提交按鈕>*.*<renderer.js
+`${t} to ${e}`>*.*<`${t} 至 ${e}`>*.*<提交按鈕>*.*<renderer.js
+${e} ${e>1?"files":"file"} `>*.*<${e} 個檔案 `>*.*<提交按鈕>*.*<renderer.js
+return"Summary (required)";const>*.*<return"摘要（必填）";const>*.*<提交按鈕>*.*<renderer.js
+"aria-label":"Create commit">*.*<"aria-label":"建立提交">*.*<提交按鈕>*.*<renderer.js
+okButtonText:"Close">*.*<okButtonText:"關閉">*.*<對話框>*.*<renderer.js
+okButtonText:this.props.buttonText||"Close">*.*<okButtonText:this.props.buttonText||"關閉">*.*<對話框>*.*<renderer.js
+cancelButtonText:"Close">*.*<cancelButtonText:"關閉">*.*<對話框>*.*<renderer.js
+"aria-label":"Close">*.*<"aria-label":"關閉">*.*<對話框>*.*<renderer.js
+onClick:this.onDismissed},"Close"):_e.createElement(MM,{destructive:!0,okButtonText>*.*<onClick:this.onDismissed},"關閉"):_e.createElement(MM,{destructive:!0,okButtonText>*.*<對話框>*.*<renderer.js
+n=_e.createElement(lT,{uri:mH},"release notes"),r=`Version ${t}`>*.*<n=_e.createElement(lT,{uri:mH},"版本說明"),r=`版本 ${t}`>*.*<關於>*.*<renderer.js
+n="Check for Updates";return>*.*<n="檢查更新";return>*.*<關於>*.*<renderer.js
+_e.createElement("h1",{id:i},"About ",e)>*.*<_e.createElement("h1",{id:i},"關於 ",e)>*.*<關於>*.*<renderer.js
+Quit and Install Update">*.*<結束並安裝更新">*.*<關於>*.*<renderer.js
+message:"Checking for updates…">*.*<message:"正在檢查更新…">*.*<關於>*.*<renderer.js
+message:"Downloading update…">*.*<message:"正在下載更新…">*.*<關於>*.*<renderer.js
+message:"An update has been downloaded and is ready to be installed.">*.*<message:"已下載更新並可安裝。">*.*<關於>*.*<renderer.js
+The application is currently running in development and will not receive any updates.">*.*<應用程式目前以開發模式執行，將不會收到任何更新。">*.*<關於>*.*<renderer.js
+You have the latest version (last checked"," ",_e.createElement(yT,{date:t}),")")>*.*<您使用的是最新版本（上次檢查於"," ",_e.createElement(yT,{date:t}),"）")>*.*<關於>*.*<renderer.js
+You have the latest version (last checked ${r})>*.*<您使用的是最新版本（上次檢查於 ${r}）>*.*<關於>*.*<renderer.js
+Looking for the latest features?">*.*<想搶先體驗新功能嗎？">*.*<關於>*.*<renderer.js
+Check out the"," ",_e.createElement(lT,{uri:"https://desktop.github.com/beta"},"Beta Channel")))}render(){const e=this.props.applicationName>*.*<前往"," ",_e.createElement(lT,{uri:"https://desktop.github.com/beta"},"Beta 通道")))}render(){const e=this.props.applicationName>*.*<關於>*.*<renderer.js
+onShowTermsAndConditions},"Terms and Conditions")),_e.createElement("p",{className:"no-padding terms-and-license"},_e.createElement(lT,{onClick:this.props.onShowAcknowledgements},"License and Open Source Notices")),_e.createElement("p",{className:"terms-and-license"},_e.createElement(lT,{uri:"https://gh.io/copilot-for-desktop-transparency"},"Responsible use of Copilot in GitHub Desktop")))),>*.*<onShowTermsAndConditions},"條款與條件")),_e.createElement("p",{className:"no-padding terms-and-license"},_e.createElement(lT,{onClick:this.props.onShowAcknowledgements},"授權與開放原始碼聲明")),_e.createElement("p",{className:"terms-and-license"},_e.createElement(lT,{uri:"https://gh.io/copilot-for-desktop-transparency"},"在 GitHub Desktop 中負責任地使用 Copilot")))),>*.*<關於>*.*<renderer.js
+_e.createElement("span",null,"Author"),_e.createElement("span",null,"Default branch"),_e.createElement("span",null,"Hooks ",_e.createElement("span",{className:"beta-pill"},"Beta"))>*.*<_e.createElement("span",null,"作者"),_e.createElement("span",null,"預設分支"),_e.createElement("span",null,"掛鉤 ",_e.createElement("span",{className:"beta-pill"},"Beta"))>*.*<選項－掛鉤>*.*<renderer.js
+title:"Open with…">*.*<title:"以其他程式開啟…">*.*<對話框>*.*<renderer.js
+Du="Open with default program">*.*<Du="以預設程式開啟">*.*<對話框>*.*<renderer.js
+${i!==r.length?`${i} of `:""}\n    ${r.length} changed file${KI(r.length)}>*.*<${i!==r.length?`${i}／${r.length} `:""}\n    ${r.length} 個已變更檔案>*.*<變更清單>*.*<renderer.js
+${e.length} changed file${KI(e.length)}>*.*<${e.length} 個已變更檔案>*.*<變更清單>*.*<renderer.js
+return`Sorry, I can't find any changed files matching the following filters: ${n}`>*.*<return`找不到符合下列篩選條件的已變更檔案：${n}`>*.*<變更篩選>*.*<renderer.js
+n=`${t.slice(0,-1).join(", ")}, and ${e}`>*.*<n=`${t.slice(0,-1).join("、")} 與 ${e}`>*.*<變更篩選>*.*<renderer.js
+n=`${t[0]} and ${t[1]}`>*.*<n=`${t[0]} 與 ${t[1]}`>*.*<變更篩選>*.*<renderer.js
+Filter Options "+(t?`(${e} applied)`:"")>*.*<篩選選項"+(t?`（已套用 ${e} 項）`:"")>*.*<變更篩選>*.*<renderer.js
+_e.createElement("h3",{id:"filter-options-header"},"Filter Options")>*.*<_e.createElement("h3",{id:"filter-options-header"},"篩選選項")>*.*<變更篩選>*.*<renderer.js
+`Included in commit (${s})`>*.*<`已納入提交（${s}）`>*.*<變更篩選>*.*<renderer.js
+`Excluded from commit (${i})`>*.*<`未納入提交（${i}）`>*.*<變更篩選>*.*<renderer.js
+`New files (${t})`>*.*<`新增檔案（${t}）`>*.*<變更篩選>*.*<renderer.js
+`Modified files (${n})`>*.*<`已修改檔案（${n}）`>*.*<變更篩選>*.*<renderer.js
+`Deleted files (${r})`>*.*<`已刪除檔案（${r}）`>*.*<變更篩選>*.*<renderer.js
+e.isIncludedInCommit&&t.push("Included in commit")>*.*<e.isIncludedInCommit&&t.push("已納入提交")>*.*<變更篩選>*.*<renderer.js
+e.isExcludedFromCommit&&t.push("Excluded from commit")>*.*<e.isExcludedFromCommit&&t.push("未納入提交")>*.*<變更篩選>*.*<renderer.js
+e.isNewFile&&t.push("New files")>*.*<e.isNewFile&&t.push("新增檔案")>*.*<變更篩選>*.*<renderer.js
+e.isModifiedFile&&t.push("Modified files")>*.*<e.isModifiedFile&&t.push("已修改檔案")>*.*<變更篩選>*.*<renderer.js
+e.isDeletedFile&&t.push("Deleted files")>*.*<e.isDeletedFile&&t.push("已刪除檔案")>*.*<變更篩選>*.*<renderer.js
+Choose a branch to merge into ",_e.createElement("strong",null,e.name)))>*.*<選擇要合併至 ",_e.createElement("strong",null,e.name)))>*.*<分支下拉>*.*<renderer.js
+relativeText:"just now">*.*<relativeText:"剛才">*.*<工具列擷取>*.*<renderer.js
+Tt("en-US",t).format(e)>*.*<Tt("zh-TW",t).format(e)>*.*<日期顯示>*.*<renderer.js
+hC("en-US",{numeric:"auto"})>*.*<hC("zh-TW",{numeric:"auto"})>*.*<相對時間>*.*<renderer.js
+Refresh the list of pull requests>*.*<重新整理拉取要求清單>*.*<拉取要求>*.*<renderer.js
+Diff Options>*.*<差異選項>*.*<差異檢視>*.*<renderer.js
+_e.createElement("legend",null,"Whitespace")>*.*<_e.createElement("legend",null,"空白字元")>*.*<差異檢視>*.*<renderer.js
+Hide whitespace changes>*.*<隱藏空白字元的變更>*.*<差異檢視>*.*<renderer.js
+Interacting with individual lines or hunks will be disabled while hiding whitespace.>*.*<隱藏空白字元時，將無法操作單行或差異區塊。>*.*<差異檢視>*.*<renderer.js
+Diff display>*.*<差異顯示>*.*<差異檢視>*.*<renderer.js
+_e.createElement(zM,{value:"Unified",checked:!this.props.showSideBySideDiff,label:"Unified",onSelected:this.onUnifiedSelected})>*.*<_e.createElement(zM,{value:"Unified",checked:!this.props.showSideBySideDiff,label:"合併檢視",onSelected:this.onUnifiedSelected})>*.*<差異檢視>*.*<renderer.js
+_e.createElement("div",null,"Split")>*.*<_e.createElement("div",null,"分割檢視")>*.*<差異檢視>*.*<renderer.js
+Copy the full SHA>*.*<複製完整 SHA>*.*<歷史／差異>*.*<renderer.js
+tooltip:t?"Collapse":"Expand">*.*<tooltip:t?"摺疊":"展開">*.*<差異檢視>*.*<renderer.js
+getOkButtonText=()=>void 0!==this.props.okButtonText?this.props.okButtonText:"Create branch">*.*<getOkButtonText=()=>void 0!==this.props.okButtonText?this.props.okButtonText:"建立分支">*.*<建立分支>*.*<renderer.js
+_e.createElement(VN,{label:"Name",ariaDescribedBy:t?this.ERRORS_ID:void 0,initialValue:this.props.initialName,onValueChange:this.onBranchNameChange})>*.*<_e.createElement(VN,{label:"名稱",ariaDescribedBy:t?this.ERRORS_ID:void 0,initialValue:this.props.initialName,onValueChange:this.onBranchNameChange})>*.*<建立分支>*.*<renderer.js
+Your new branch will be based on your currently checked out branch (>*.*<您的新分支將以目前簽出的分支 (>*.*<建立分支>*.*<renderer.js
+" is the ",OU," for your repository.">*.*<" 為您儲存庫的 ",OU,"。">*.*<建立分支>*.*<renderer.js
+_e.createElement("p",null,"A branch named ",_e.createElement(WM,null,e)," already exists on the remote."))}(this.state.branchName,this.props.allBranches),this.renderBranchSelection()),_e.createElement(DM,null,_e.createElement(MM,{okButtonText:this.getOkButtonText(),okButtonDisabled:e})))}getHeaderText=()=>void 0!==this.props.headerText?this.props.headerText:"Create a branch">*.*<_e.createElement("p",null,"遠端已存在名為 ",_e.createElement(WM,null,e)," 的分支。"))}(this.state.branchName,this.props.allBranches),this.renderBranchSelection()),_e.createElement(DM,null,_e.createElement(MM,{okButtonText:this.getOkButtonText(),okButtonDisabled:e})))}getHeaderText=()=>void 0!==this.props.headerText?this.props.headerText:"建立分支">*.*<建立分支>*.*<renderer.js
+e[e.Accounts=0]="Accounts",e[e.Integrations=1]="Integrations",e[e.Git=2]="Git",e[e.Appearance=3]="Appearance",e[e.Notifications=4]="Notifications",e[e.Prompts=5]="Prompts",e[e.Advanced=6]="Advanced",e[e.Accessibility=7]="Accessibility"}(zr||(zr={}))>*.*<e[e.Accounts=0]="帳號",e[e.Integrations=1]="整合",e[e.Git=2]="Git",e[e.Appearance=3]="外觀",e[e.Notifications=4]="通知",e[e.Prompts=5]="提示",e[e.Advanced=6]="進階",e[e.Accessibility=7]="協助工具"}(zr||(zr={}))>*.*<選項側欄>*.*<renderer.js
+"Accounts">*.*<"帳號">*.*<選項側欄>*.*<renderer.js
+"Integrations">*.*<"整合">*.*<選項側欄>*.*<renderer.js
+"Appearance">*.*<"外觀">*.*<選項側欄>*.*<renderer.js
+"Notifications">*.*<"通知">*.*<選項側欄>*.*<renderer.js
+"Prompts">*.*<"提示">*.*<選項側欄>*.*<renderer.js
+"Advanced">*.*<"進階">*.*<選項側欄>*.*<renderer.js
+"Accessibility">*.*<"協助工具">*.*<選項側欄>*.*<renderer.js
+e[e.Clone=4]="Clone">*.*<e[e.Clone=4]="克隆">*.*<操作>*.*<renderer.js
+okButtonText:"Clone">*.*<okButtonText:"克隆">*.*<操作>*.*<renderer.js
+"Light">*.*<"淺色">*.*<選項－外觀>*.*<renderer.js
+"Dark">*.*<"深色">*.*<選項－外觀>*.*<renderer.js
+"System">*.*<"系統">*.*<選項－外觀>*.*<renderer.js
+label:"Enable notifications">*.*<label:"啟用通知">*.*<選項－通知>*.*<renderer.js
+label:"Removing repositories">*.*<label:"移除儲存庫">*.*<選項－通知>*.*<renderer.js
+label:"Discarding changes">*.*<label:"丟棄變更">*.*<選項－通知>*.*<renderer.js
+label:"Discarding changes permanently">*.*<label:"永久丟棄變更">*.*<選項－通知>*.*<renderer.js
+label:"Discarding stash">*.*<label:"丟棄暫存（stash）">*.*<選項－通知>*.*<renderer.js
+label:"Checking out a commit">*.*<label:"簽出提交">*.*<選項－通知>*.*<renderer.js
+label:"Force pushing">*.*<label:"強制推送">*.*<選項－通知>*.*<renderer.js
+label:"Undo commit">*.*<label:"復原提交">*.*<選項－通知>*.*<renderer.js
+label:"Committing changes hidden by filter">*.*<label:"提交變更（被篩選隱藏）">*.*<選項－通知>*.*<renderer.js
+label:"Overriding commit message with generated message">*.*<label:"使用產生的訊息覆寫提交訊息">*.*<選項－提交>*.*<renderer.js
+"Commit Length">*.*<"提交長度">*.*<選項－提交>*.*<renderer.js
+label:"Show commit length warning">*.*<label:"顯示提交長度警告">*.*<選項－提交>*.*<renderer.js
+label:"Underline links">*.*<label:"為連結加底線">*.*<選項－輔助工具>*.*<renderer.js
+label:"Show check marks in the diff">*.*<label:"在差異中顯示勾選標記">*.*<選項－輔助工具>*.*<renderer.js
+This is an example link>*.*<這是一個範例連結>*.*<選項－輔助工具>*.*<renderer.js
+"aria-label":"Undo commit">*.*<"aria-label":"復原提交">*.*<選項－提交>*.*<renderer.js
+title:"Undo commit">*.*<title:"復原提交">*.*<選項－提交>*.*<renderer.js
+"Ask me where I want the changes to go">*.*<"詢問我想把變更放到哪裡">*.*<選項－分支切換>*.*<renderer.js
+"Always bring my changes to my new branch">*.*<"一律將我的變更帶到新分支">*.*<選項－分支切換>*.*<renderer.js
+"Always stash and leave my changes on the current branch">*.*<"一律暫存（stash）並保留變更在目前分支">*.*<選項－分支切換>*.*<renderer.js
+const t="Sign into">*.*<const t="登入">*.*<帳號登入>*.*<renderer.js
+Sign out>*.*<登出>*.*<帳號>*.*<renderer.js
+_e.createElement("h2",null,"External editor")>*.*<_e.createElement("h2",null,"外部編輯器")>*.*<整合>*.*<renderer.js
+_e.createElement("h2",null,"Shell")>*.*<_e.createElement("h2",null,"終端機（Shell）")>*.*<整合>*.*<renderer.js
+These preferences will"," ",_e.createElement(lT,{onClick:this.props.onEditGlobalGitConfig},"edit your global Git config file"),".")}}class OH>*.*<這些偏好設定會"," ",_e.createElement(lT,{onClick:this.props.onEditGlobalGitConfig},"編輯您的全域 Git 設定檔"),".")}}class OH>*.*<Git 設定>*.*<renderer.js
+Default branch name for new repositories")>*.*<新建儲存庫的預設分支名稱")>*.*<Git 設定>*.*<renderer.js
+"GitHub's default branch name is ",_e.createElement(WM,null,"main"),". You may want to change it due to different workflows, or because your integrations still require the historical default branch name of ",_e.createElement(WM,null,"master"),".">*.*<"GitHub 的預設分支名稱為 ",_e.createElement(WM,null,"main"),"。您可能因工作流程不同，或整合仍需要歷史預設分支名稱 ",_e.createElement(WM,null,"master"),"，而需要更改。">*.*<Git 設定>*.*<renderer.js
+GitHub Desktop hook support is experimental and currently only supports hooks related to committing. Please"," ",_e.createElement(lT,{uri:"https://github.com/desktop/desktop/issues/new/choose"},"let us know")," ","if you encounter any issues or have feedback!">*.*<GitHub Desktop 的掛鉤支援為實驗性質，目前僅支援與提交相關的掛鉤。若遇到問題或想提供意見，請"," ",_e.createElement(lT,{uri:"https://github.com/desktop/desktop/issues/new/choose"},"向我們反映")," ","（可於 GitHub 開 issue）。">*.*<選項－掛鉤>*.*<renderer.js
+Load Git hook environment variables from shell">*.*<從 shell 載入 Git 掛鉤的環境變數">*.*<選項－掛鉤>*.*<renderer.js
+okButtonText:"Save">*.*<okButtonText:"儲存">*.*<選項>*.*<renderer.js
+case qh.Modified:return"Modified">*.*<case qh.Modified:return"已修改">*.*<差異狀態>*.*<renderer.js
+Configure custom editor…">*.*<設定自訂編輯器…">*.*<整合>*.*<renderer.js
+No other editors found.">*.*<找不到其他編輯器。">*.*<整合>*.*<renderer.js
+"Options">*.*<"選項">*.*<選項－外觀>*.*<renderer.js
+"Theme">*.*<"主題">*.*<選項－外觀>*.*<renderer.js
+"Diff">*.*<"差異">*.*<選項－外觀>*.*<renderer.js
+"Notifications Settings">*.*<"通知設定">*.*<選項－通知>*.*<renderer.js
+"Repository settings">*.*<"儲存庫設定">*.*<選項>*.*<renderer.js
+"Remote">*.*<"遠端">*.*<選項>*.*<renderer.js
+"Ignored files">*.*<"已忽略的檔案">*.*<選項>*.*<renderer.js
+"Git config">*.*<"Git 設定">*.*<選項>*.*<renderer.js
+"usage stats">*.*<"用法統計">*.*<選項－隱私>*.*<renderer.js
+"Usage">*.*<"使用">*.*<選項>*.*<renderer.js
+"Network and credentials">*.*<"網路與認證">*.*<選項>*.*<renderer.js
+"Use system OpenSSH (recommended)">*.*<"使用系統 OpenSSH（建議）">*.*<選項>*.*<renderer.js
+"Use Git Credential Manager">*.*<"使用 Git 認證管理員">*.*<選項>*.*<renderer.js
+"Git Credential Manager">*.*<"Git 認證管理員">*.*<選項>*.*<renderer.js
+"Help GitHub Desktop improve by submitting">*.*<"透過提交協助 GitHub Desktop 改進">*.*<選項>*.*<renderer.js
+"Show a confirmation dialog before...">*.*<"在執行下列操作前顯示確認對話框...">*.*<選項－確認>*.*<renderer.js
+"If I have changes and I switch branches...">*.*<"若有變更且我切換分支時...">*.*<選項－確認>*.*<renderer.js
+"Background updates">*.*<"背景更新">*.*<選項－背景>*.*<renderer.js
+"Show status icons in the repository list">*.*<"在儲存庫清單中顯示狀態圖示">*.*<選項－背景>*.*<renderer.js
+"Editing ">*.*<"正在編輯 ">*.*<選項－儲存庫>*.*<renderer.js
+". This file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected.">*.*<"。此檔案指定的是 Git 應忽略的有意不追蹤檔案。已由 Git 追蹤的檔案不受影響。">*.*<選項－儲存庫>*.*<renderer.js
+"Learn more about gitignore files">*.*<"了解更多關於 gitignore 檔案">*.*<選項－儲存庫>*.*<renderer.js
+for private repositories outside of GitHub.com. This feature is experimental and subject to change>*.*<僅適用於 GitHub.com 以外的私人儲存庫。此功能屬於實驗性質，可能會變更。>*.*<選項－外觀>*.*<renderer.js
+label:`Primary remote repository (${e.name}) URL`>*.*<label:`主要遠端儲存庫（${e.name}）URL`>*.*<選項－儲存庫>*.*<renderer.js
+"Allows the display of notifications when high-signal events take place in the current repository.">*.*<"在目前儲存庫中於高訊號事件發生時顯示通知。">*.*<選項－通知>*.*<renderer.js
+"Make sure notifications are ">*.*<"請確認 GitHub Desktop 的通知為 ">*.*<選項－通知>*.*<renderer.js
+" for GitHub Desktop in the">*.*<"，在">*.*<選項－通知>*.*<renderer.js
+"properly configured">*.*<"已正確設定">*.*<選項－通知>*.*<renderer.js
+"enabled">*.*<"已啟用">*.*<選項－通知>*.*<renderer.js
+"Open a pull request">*.*<"開啟拉取要求">*.*<介面補齊>*.*<renderer.js
+Open a pull request with changes targeting this branch instead.>*.*<請改為開啟以此分支為目標、包含變更的拉取要求。>*.*<介面補齊>*.*<renderer.js
+"Choose a base branch">*.*<"選擇基底分支">*.*<介面補齊>*.*<renderer.js
+"There are no changes to commit.">*.*<"沒有可提交的變更。">*.*<介面補齊>*.*<renderer.js
+"There are no changes.">*.*<"沒有變更。">*.*<介面補齊>*.*<renderer.js
+" is up to date with all commits from">*.*<" 已與來自">*.*<介面補齊>*.*<renderer.js
+" are entirely different commit histories.">*.*<" 的提交歷史完全不同。">*.*<介面補齊>*.*<renderer.js
+"Confirm discard all changes">*.*<"確認捨棄所有變更">*.*<選項－確認>*.*<renderer.js
+"Are you sure you want to discard all changes to:">*.*<"你確定要捨棄以下所有變更嗎：">*.*<選項－確認>*.*<renderer.js
+"Discard all changes…">*.*<"捨棄所有變更…">*.*<選項－確認>*.*<renderer.js
+"Discard all changes">*.*<"捨棄所有變更">*.*<選項－確認>*.*<renderer.js
+"Cancel">*.*<"取消">*.*<待分組>*.*<renderer.js
+"Create a merge commit">*.*<"建立合併提交">*.*<介面補齊>*.*<renderer.js
+"Squash and merge">*.*<"壓縮並合併">*.*<介面補齊>*.*<renderer.js
+"Rebase">*.*<"重新基底">*.*<介面補齊>*.*<renderer.js
+"Deleted">*.*<"已刪除">*.*<介面補齊>*.*<renderer.js
+"Added">*.*<"已新增">*.*<介面補齊>*.*<renderer.js
+"Diff:">*.*<"差異：">*.*<介面補齊>*.*<renderer.js
+"2-up">*.*<"雙欄">*.*<介面補齊>*.*<renderer.js
+"Onion Skin">*.*<"洋蔥皮">*.*<介面補齊>*.*<renderer.js
+"Difference">*.*<"差異">*.*<介面補齊>*.*<renderer.js
+"Merge options">*.*<"合併選項">*.*<介面補齊>*.*<renderer.js
+"Swipe">*.*<"滑動">*.*<介面補齊>*.*<renderer.js
+"Stashed Changes">*.*<"已暫存的變更">*.*<介面補齊>*.*<renderer.js
+"Restore">*.*<"還原">*.*<介面補齊>*.*<renderer.js
+"Discard">*.*<"捨棄">*.*<介面補齊>*.*<renderer.js
+" will move your stashed files to the Changes list.">*.*<"會將你已暫存的檔案移到變更清單。">*.*<介面補齊>*.*<renderer.js
+"Press ">*.*<"按 ">*.*<介面補齊>*.*<renderer.js
+"to exit fullscreen">*.*<"退出全螢幕">*.*<介面補齊>*.*<renderer.js
+"Add co-authors">*.*<"新增共同作者">*.*<介面補齊>*.*<renderer.js
+"Remove co-authors">*.*<"移除共同作者">*.*<介面補齊>*.*<renderer.js
+"Search…">*.*<"搜尋…">*.*<介面補齊>*.*<renderer.js
+"New">*.*<"新增">*.*<介面補齊>*.*<renderer.js
+label:"Tab size">*.*<label:"Tab 大小">*.*<選項－外觀>*.*<renderer.js
+${e} (default)>*.*<${e}（預設）>*.*<選項－外觀>*.*<renderer.js
+"W:">*.*<"寬：">*.*<介面補齊>*.*<renderer.js
+"H:">*.*<"高：">*.*<介面補齊>*.*<renderer.js
+"Size:">*.*<"大小：">*.*<介面補齊>*.*<renderer.js
+Create ${i}>*.*<新增 ${i}>*.*<介面補齊>*.*<renderer.js
+Delete ${i}>*.*<刪除 ${i}>*.*<介面補齊>*.*<renderer.js
+Update ${i}>*.*<更新 ${i}>*.*<介面補齊>*.*<renderer.js
+"Merge into ">*.*<"合併至 ">*.*<介面補齊>*.*<renderer.js
+"Fast-forwarding branches">*.*<"正在快轉分支">*.*<介面補齊>*.*<renderer.js
+"Stashed changes">*.*<"已暫存的變更">*.*<介面補齊>*.*<renderer.js
+`Pulling ${n.name}`>*.*<`正在拉取 ${n.name}`>*.*<狀態列>*.*<renderer.js
+`Pulling ${t.name}`>*.*<`正在拉取 ${t.name}`>*.*<狀態列>*.*<renderer.js
+`Pushing to ${i}`>*.*<`正在推送到 ${i}`>*.*<狀態列>*.*<renderer.js
+`Pushing to ${t.name}`>*.*<`正在推送到 ${t.name}`>*.*<狀態列>*.*<renderer.js
+`Pushing repository to ${t.friendlyEndpoint}`>*.*<`正在將儲存庫推送到 ${t.friendlyEndpoint}`>*.*<狀態列>*.*<renderer.js
+title:"Remove repository">*.*<title:"移除儲存庫">*.*<對話框－移除儲存庫>*.*<renderer.js
+'Are you sure you want to remove the repository "'>*.*<'確定要從 GitHub Desktop 移除儲存庫 "'>*.*<對話框－移除儲存庫>*.*<renderer.js
+'" from GitHub Desktop?'>*.*<'" 嗎？'>*.*<對話框－移除儲存庫>*.*<renderer.js
+The repository will be removed from GitHub Desktop:>*.*<此儲存庫將從 GitHub Desktop 移除：>*.*<對話框－移除儲存庫>*.*<renderer.js
+Tu="Recycle Bin">*.*<Tu="資源回收筒">*.*<對話框－移除儲存庫>*.*<renderer.js
+"Also move this repository to "+Tu>*.*<"一併將此儲存庫移至 "+Tu>*.*<對話框－移除儲存庫>*.*<renderer.js
+label:"Select an editor">*.*<label:"選擇編輯器">*.*<介面補齊>*.*<renderer.js
+okButtonText:"Open">*.*<okButtonText:"開啟">*.*<介面補齊>*.*<renderer.js
+okButtonText:"Remove">*.*<okButtonText:"移除">*.*<對話框－移除儲存庫>*.*<renderer.js
+getAccountTypeDescription(){return 1===this.props.accounts.length?`your ${wn(this.props.accounts[0])?"GitHub":"GitHub Enterprise"} account`:"either of your GitHub.com nor GitHub Enterprise accounts"}}>*.*<getAccountTypeDescription(){return 1===this.props.accounts.length?`您的 ${wn(this.props.accounts[0])?"GitHub":"GitHub Enterprise"} 帳戶`:"您的 GitHub.com 或 GitHub Enterprise 帳戶"}}>*.*<儲存庫設定－Git>*.*<renderer.js
+buildScreenReaderMessage(e){const t=e?"":"Your commits will be wrongly attributed. ";return`This email address ${e?"matches":"does not match"} ${this.getAccountTypeDescription()}. ${t}`}>*.*<buildScreenReaderMessage(e){const t=e?"":"您的提交將被錯誤歸因。 ";return`此電子郵件地址與${this.getAccountTypeDescription()}${e?"相符":"不相符"}。${t}`}>*.*<儲存庫設定－Git>*.*<renderer.js
+For this repository I wish to>*.*<對於此儲存庫，我希望>*.*<儲存庫設定－Git>*.*<renderer.js
+Use my global Git config>*.*<使用我的全域 Git 設定>*.*<儲存庫設定－Git>*.*<renderer.js
+Use a local Git config>*.*<使用此儲存庫的本機 Git 設定>*.*<儲存庫設定－Git>*.*<renderer.js
+const XM="Other">*.*<const XM="其他">*.*<儲存庫設定－Git>*.*<renderer.js
+title:"Overwrite stash?">*.*<title:"要覆寫暫存嗎？">*.*<對話框－暫存>*.*<renderer.js
+Are you sure you want to proceed? This will overwrite your existing stash with your current changes.>*.*<確定要繼續嗎？這會以您目前的變更覆寫現有的暫存（stash）。>*.*<對話框－暫存>*.*<renderer.js
+okButtonText:"Overwrite">*.*<okButtonText:"覆寫">*.*<對話框－暫存>*.*<renderer.js
+o=e?"View":" Create",a=`${o} pull request on GitHub${s&&s.endpoint!==lr()?" Enterprise":""}.`,l=_e.createElement(_e.Fragment,null,e&&_e.createElement(Ri,{symbol:Va}),`${o} pull request`)>*.*<a=`${e?`在 GitHub${s&&s.endpoint!==lr()?" Enterprise":""} 上檢視拉取要求。`:`在 GitHub${s&&s.endpoint!==lr()?" Enterprise":""} 上建立拉取要求。`}`,l=_e.createElement(_e.Fragment,null,e&&_e.createElement(Ri,{symbol:Va}),`${e?"檢視拉取要求":"建立拉取要求"}`)>*.*<拉取要求>*.*<renderer.js
+"Squash and ">*.*<"壓縮並 ">*.*<合併對話框>*.*<renderer.js
+"Rebase ">*.*<"變基 ">*.*<合併對話框>*.*<renderer.js
+`${o} commit${o>1?"s":""}`>*.*<`${o} 個提交`>*.*<拉取要求>*.*<renderer.js
+"Merge ",u," into"," ",>*.*<"將 ",u," 合併至"," ",>*.*<拉取要求>*.*<renderer.js
+" ","from ",>*.*<" ","從 ",>*.*<拉取要求>*.*<renderer.js
+"Lines changed:">*.*<"變更行數：">*.*<拉取要求>*.*<renderer.js
+,c," added lines">*.*<,c," 行新增">*.*<拉取要求>*.*<renderer.js
+,h," removed lines">*.*<,h," 行刪除">*.*<拉取要求>*.*<renderer.js
+renderButton(e,t,n){const r=pi()("window-control",e),i=e[0].toUpperCase()+e.substring(1);return _e.createElement(Ei,{ariaLabel:i,ariaHidden:!0,tabIndex:-1,className:r,onClick:t,tooltip:i,tooltipClassName:"window-controls-tooltip"},>*.*<renderButton(e,t,n){const r=pi()("window-control",e),i={minimize:"最小化",restore:"還原",maximize:"最大化",close:"關閉"}[e]||e[0].toUpperCase()+e.substring(1);return _e.createElement(Ei,{ariaLabel:i,ariaHidden:!0,tabIndex:-1,className:r,onClick:t,tooltip:i,tooltipClassName:"window-controls-tooltip"},>*.*<標題列－視窗按鈕>*.*<renderer.js
+,"Changes can be restored by retrieving them from the ",Tu,"."),this.renderConfirmDiscardChanges())>*.*<,"若要還原變更，請從「",Tu,"」還原檔案。"),this.renderConfirmDiscardChanges())>*.*<捨棄變更－資源回收筒>*.*<renderer.js
+,"These changes will be unrecoverable from the ",Tu,"."),this.renderConfirmDiscardChanges())>*.*<,"這些變更將無法從「",Tu,"」復原。"),this.renderConfirmDiscardChanges())>*.*<捨棄變更－資源回收筒>*.*<renderer.js
+"The ",Tu," is configured to delete items immediately.">*.*<"「",Tu,"」已設定為立即刪除項目。">*.*<捨棄變更－錯誤>*.*<renderer.js
+"Restricted access to move the file(s).">*.*<"因權限限制而無法移動檔案。">*.*<捨棄變更－錯誤>*.*<renderer.js
