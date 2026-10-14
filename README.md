@@ -31,9 +31,9 @@ GitHub Desktop 客户端官网下载：| [Linux](https://github.com/shiftkey/des
 
 GitHub Desktop 客户端Releases下载：| [Linux](https://github.com/shiftkey/desktop/releases/latest) | [MacOS](https://github.com/desktop/desktop/releases/latest/download/GitHub.Desktop-x64.zip) | [Windows](https://github.com/desktop/desktop/releases/latest/download/GitHubDesktopSetup-x64.exe) | 
 
-GitHub Desktop 版本：| 3.5.0 - 3.6.6 | 
+GitHub Desktop 版本：| 3.5.0 - 3.6.7 | 
 
-GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.6 | 
+GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.7 | 
 
 ---
 
@@ -43,11 +43,20 @@ GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.6 |
 
 ---
 
-# GitHub Desktop for 2026年09月21日 3.6.6 发布说明
+# GitHub Desktop for 2026年10月14日 3.6.7 发布说明
+
+**额外**
+- 使用“始终显示工作树列表”外观设置，保持当前工作树工具栏部分可见 - [#22888](https://github.com/desktop/desktop/issues/22888)
+
+**固定的**
+- 修复了 Git LFS 进度跟踪遇到文件读取错误时可能发生的崩溃问题 - [#22889](https://github.com/desktop/desktop/pull/22889)
+- 修复“在 Cygwin 中打开”集成对名称包含空格或标点符号的存储库文件夹的处理问题 - [#22883](https://github.com/desktop/desktop/pull/22883)
+- 正确处理以连字符开头的分支、远程和标签名称，这些名称会贯穿 fetch、push、checkout、merge、rebase 和工作树操作 - [#22862](https://github.com/desktop/desktop/pull/22862)
 
 **改进**
-- 在 Finder 中显示某些文件夹前请求确认 - [#22872](https://github.com/desktop/desktop/pull/22872)
-- 改进 .gitignore 文件的处理方式 - [#22872](https://github.com/desktop/desktop/pull/22872)
+- 将 Copilot SDK 更新至 v1.0.13 - [#22828](https://github.com/desktop/desktop/pull/22828)
+- 提高检查摘要中成功和失败图标的对比度 - [#22900](https://github.com/desktop/desktop/pull/22900)
+- 在克隆对话框中验证 macOS 应用程序包路径 - [#22891](https://github.com/desktop/desktop/pull/22891)
 
 ---
 
@@ -85,7 +94,7 @@ GitHub Desktop 汉化补丁包 版本：| 3.5.0 - 3.6.6 |
 
 将本仓库中Windows文件夹下的main.js和renderer.js拷贝粘贴替换本地GitHub Desktop的资源目录
 
-本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.6.6】\resources\app
+本地GitHub Desktop资源目录一般为：C:\Users\【用户名】\AppData\Local\GitHub Desktop\【最新版本文件夹 例：app-3.6.7】\resources\app
      【请一定记得提前做好备份】
      
 替换完成后 重新打开GitHub Desktop
